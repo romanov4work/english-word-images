@@ -19780,6 +19780,36 @@
     "sourceRights": "unverified"
   },
   {
+    "cardId": "w2615",
+    "word": "UK",
+    "meaning": "Великобритания",
+    "senseFingerprint": "83ec200a3e8eb0860ba53475271d741c79d65b04335c93a8aa1bd411e60371dd",
+    "sha256": "85a253693c3e74c7097b0e3c90be535e15369838a9dd57b4876bbc35d4b15235",
+    "searchQuery": "United Kingdom flag",
+    "searchUrl": "https://yandex.com/images/search?text=United%20Kingdom%20flag",
+    "sourcePageUrl": "https://www.vecteezy.com/vector-art/21347354-vector-united-kingdom-flag-standard-format",
+    "downloadedUrl": "https://static.vecteezy.com/system/resources/previews/021/347/354/non_2x/united-kingdom-flag-standard-format-free-vector.jpg",
+    "license": "unknown",
+    "visualReview": {
+      "rank": 484,
+      "cardId": "w2615",
+      "word": "UK",
+      "senseFingerprint": "83ec200a3e8eb0860ba53475271d741c79d65b04335c93a8aa1bd411e60371dd",
+      "sha256": "85a253693c3e74c7097b0e3c90be535e15369838a9dd57b4876bbc35d4b15235",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "65e1bb6b4b7a601cc97b61308af6ee9024455f7531d0e96c926c651ccee56fd5",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/85a253693c3e74c7097b0e3c90be535e15369838a9dd57b4876bbc35d4b15235.jpg",
+    "gitBlobSha1": "c3bce128e3340deaf3c052d3862cd6bdf5d9ef7f",
+    "sourceRights": "unverified"
+  },
+  {
     "cardId": "w2618",
     "word": "access",
     "meaning": "доступ",
