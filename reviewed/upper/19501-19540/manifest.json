@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 19525,
+    "cardId": "t_everydayphrases_w101",
+    "word": "except for",
+    "meaning": "кроме",
+    "senseFingerprint": "09dd02329575ff96ead26163e8803cab309262ecd336763eb906ea28b019d439",
+    "sha256": "77e3fc05629c14a96906d1fa0feaaa1505d89464662c02f32d19a3385d612243",
+    "sourcePageUrl": "https://pxhere.com/ru/photo/1563103",
+    "downloadedUrl": "https://c.pxhere.com/photos/6b/06/analog_art_beautiful_business_calm_chair_contemporary_design-1563103.jpg!d",
+    "license": "CC0 1.0",
+    "licenseEvidenceUrl": "https://pxhere.com/en/photo/1563103",
+    "licenseText": "CC0 Public Domain; permitted download, modification, distribution and commercial use.",
+    "author": "No photographer credited on the photo page",
+    "attribution": "PxHere, photo 1563103, https://pxhere.com/en/photo/1563103",
+    "verifiedAt": "2026-10-12T08:39:17.333061+00:00",
+    "binding": "Source page embeds the exact downloaded 1563103 URL; full picture and 130px cover personally inspected.",
+    "exampleUsed": "The room was empty except for a chair.",
+    "visualReview": {
+      "rank": 19525,
+      "cardId": "t_everydayphrases_w101",
+      "word": "except for",
+      "senseFingerprint": "09dd02329575ff96ead26163e8803cab309262ecd336763eb906ea28b019d439",
+      "sha256": "77e3fc05629c14a96906d1fa0feaaa1505d89464662c02f32d19a3385d612243",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "7c46d06bda27cc58555542c12bde9c7e52fa238c357b23df5da5860cc4f485b1",
+      "note": "Manually inspected a room empty except for one chair, matching the same exclusion sense and the third card example; full image and cover are clear.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "verified-CC0"
+    },
+    "remotePath": "reviewed/v1/77e3fc05629c14a96906d1fa0feaaa1505d89464662c02f32d19a3385d612243.jpg",
+    "gitBlobSha1": "add8cdabbcc5e470237530d60e35b2e32541dd71",
+    "sourceRights": "verified-CC0"
+  }
+]
