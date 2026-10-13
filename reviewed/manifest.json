@@ -153342,6 +153342,34 @@
     "gitBlobSha1": "d0bcbc2a66070b489362bdcb7e762d9f9e095c87"
   },
   {
+    "cardId": "w13855",
+    "word": "qualia",
+    "meaning": "квалиа",
+    "senseFingerprint": "92cab492ca5bab5e2e1babd1678ef94cbcdfb1524819f5d521985dd4bd6fd299",
+    "sha256": "ad02835f2e703ccfd33de43a4ba6c3d99f471d833ffffb2cf76b680f0090dc31",
+    "searchQuery": "qualia subjective conscious experience color perception seeing red philosophical thought experiment photography concept image",
+    "searchUrl": "https://yandex.com/images/search?text=qualia%20subjective%20conscious%20experience%20color%20perception%20seeing%20red%20philosophical%20thought%20experiment%20photography%20concept%20image",
+    "sourcePageUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Inverted_qualia_of_colour_strawberry.jpg",
+    "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Inverted_qualia_of_colour_strawberry.jpg/960px-Inverted_qualia_of_colour_strawberry.jpg",
+    "visualReview": {
+      "rank": 11900,
+      "cardId": "w13855",
+      "word": "qualia",
+      "senseFingerprint": "92cab492ca5bab5e2e1babd1678ef94cbcdfb1524819f5d521985dd4bd6fd299",
+      "sha256": "ad02835f2e703ccfd33de43a4ba6c3d99f471d833ffffb2cf76b680f0090dc31",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "77f16eac3df8bf37291a0e2ada37ab9b9a591976e791493a72b9aee333521f40",
+      "note": "Second refinement accepted after inspecting the full image and exact 130x130 cover crop. The image depicts the inverted-qualia strawberry thought experiment: two observers associate the same strawberry with different experienced colors. It directly illustrates subjective color experience. Source/license metadata remains unverified.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/ad02835f2e703ccfd33de43a4ba6c3d99f471d833ffffb2cf76b680f0090dc31.jpg",
+    "gitBlobSha1": "75d6bf34aa0b137cb0dd404d924f9a743e36b523"
+  },
+  {
     "cardId": "w10188",
     "word": "moan",
     "meaning": "стонать",
