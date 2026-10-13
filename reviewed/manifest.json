@@ -183190,6 +183190,42 @@
     "gitBlobSha1": "73d43d09c6eaa97eeda65d67cff24e5fac224d68"
   },
   {
+    "cardId": "t_home_w18",
+    "word": "table",
+    "meaning": "стол",
+    "senseFingerprint": "a51cbdd4d8cc9c53ec3b965f551cda17d8c161ef1f70d2c95d1a67d2ce905f24",
+    "sha256": "76c0d063aae8081f9ed456ad4adc3ab31561fb715c80eae5e1767a8825fdb815",
+    "searchQuery": "wooden dining table with plates in a dining room -grammar -worksheet -textbook -exercise -lesson",
+    "searchUrl": "https://yandex.com/images/search?text=wooden%20dining%20table%20with%20plates%20in%20a%20dining%20room%20-grammar%20-worksheet%20-textbook%20-exercise%20-lesson",
+    "sourcePageUrl": "https://ru.pinterest.com/pin/solid-wood-mennonite-dining-tables-handcrafted-furniture--724516658849831686/",
+    "downloadedUrl": "https://i.pinimg.com/736x/cf/7c/e8/cf7ce8446d650a70fcfb2dd814ddd045.jpg",
+    "visualReview": {
+      "rank": 16722,
+      "cardId": "t_home_w18",
+      "word": "table",
+      "senseFingerprint": "a51cbdd4d8cc9c53ec3b965f551cda17d8c161ef1f70d2c95d1a67d2ce905f24",
+      "sha256": "76c0d063aae8081f9ed456ad4adc3ab31561fb715c80eae5e1767a8825fdb815",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "ba6fb0f43f297422e8a79b27ca761f128e12d900d95847de07e00d6637230e4e",
+      "note": "Reused an already manually approved wooden dining-table image from t_home2_w18 with the identical word, meaning, examples and sense fingerprint; the full photo and exact square crop clearly show a table.",
+      "reviewMethod": "Independent visual inspection of the full pinned image and exact 130px square crop; SHA and crop SHA reproduced from the previously accepted same-fingerprint card.",
+      "sourceApproval": "pending",
+      "reusedReviewedAsset": {
+        "cardId": "t_home2_w18",
+        "rank": 16850,
+        "sha256": "76c0d063aae8081f9ed456ad4adc3ab31561fb715c80eae5e1767a8825fdb815",
+        "cropSha256": "ba6fb0f43f297422e8a79b27ca761f128e12d900d95847de07e00d6637230e4e",
+        "senseFingerprint": "a51cbdd4d8cc9c53ec3b965f551cda17d8c161ef1f70d2c95d1a67d2ce905f24",
+        "pinnedCommit": "39145bf5e66a3b0d7f70237a40e704038a7b7dee"
+      }
+    },
+    "remotePath": "reviewed/v1/76c0d063aae8081f9ed456ad4adc3ab31561fb715c80eae5e1767a8825fdb815.jpg",
+    "gitBlobSha1": "1043700a6b490e2d7f93c0ac4277ba98c6610ff2"
+  },
+  {
     "cardId": "t_home_w20",
     "word": "desk",
     "meaning": "рабочий стол",
