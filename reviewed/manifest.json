@@ -180862,6 +180862,32 @@
     "gitBlobSha1": "cec068b3a13d9f406e2f6c484db951afb47c663c"
   },
   {
+    "cardId": "w14076",
+    "word": "ROC curve",
+    "meaning": "ROC-кривая",
+    "senseFingerprint": "8b812d94b7237e98ab1476d6da6938b255f37065970b8e9f66e7d968eb08bfc1",
+    "sha256": "89b838ce9b68c82f0678297cc25b2303684bd2f748a05ab7147a7021681e26f4",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/6f97523160e8376c6200480d5edb31924db59f4d",
+    "visualReview": {
+      "rank": 13835,
+      "cardId": "w14076",
+      "word": "ROC curve",
+      "senseFingerprint": "8b812d94b7237e98ab1476d6da6938b255f37065970b8e9f66e7d968eb08bfc1",
+      "sha256": "89b838ce9b68c82f0678297cc25b2303684bd2f748a05ab7147a7021681e26f4",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "3c6ea71c351c33e596bb8b53e3123ebc4127652d2f34d94c71a9afb8c47b7fc8",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/6f97523160e8376c6200480d5edb31924db59f4d"
+    },
+    "remotePath": "reviewed/v1/89b838ce9b68c82f0678297cc25b2303684bd2f748a05ab7147a7021681e26f4.jpg",
+    "gitBlobSha1": "6f97523160e8376c6200480d5edb31924db59f4d"
+  },
+  {
     "cardId": "w13703",
     "word": "rock the boat",
     "meaning": "раскачивать лодку, создавать проблемы",
