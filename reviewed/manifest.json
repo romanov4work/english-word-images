@@ -186858,6 +186858,34 @@
     "gitBlobSha1": "3e3b6dff2ea47d52803ef3e689e25ad707e83a0c"
   },
   {
+    "cardId": "t_advertising_w156",
+    "word": "singer",
+    "meaning": "певец",
+    "senseFingerprint": "635191d2e3d105a294148173640a0acad529b0e3ad79b1263b7a2f45113a16fd",
+    "sha256": "c32c3da3382b52a95ff29c011e372d9922140e1007a67802a1fdc38f07da4d4e",
+    "searchQuery": "male opera singer performing on stage with microphone full body",
+    "searchUrl": "https://yandex.com/images/search?text=male%20opera%20singer%20performing%20on%20stage%20with%20microphone%20full%20body",
+    "sourcePageUrl": "https://ru.pinterest.com/pin/male-singer-singing-in-mic--3448137204555633/",
+    "downloadedUrl": "https://i.pinimg.com/736x/c4/5c/57/c45c572e37ae507d65b9ba68c816ecb7.jpg",
+    "visualReview": {
+      "rank": 14314,
+      "cardId": "t_advertising_w156",
+      "word": "singer",
+      "senseFingerprint": "635191d2e3d105a294148173640a0acad529b0e3ad79b1263b7a2f45113a16fd",
+      "sha256": "c32c3da3382b52a95ff29c011e372d9922140e1007a67802a1fdc38f07da4d4e",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "cfa59a992d8664409ff7e530b6573366c32aafab3b01ffcb0104abda9c20dd2b",
+      "note": "Inspected exact full image and square crop: singer performing into microphone; suitable for singer and opera singer examples.",
+      "reviewMethod": "Independent inspection of exact saved full image and exact 130x130 crop.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/c32c3da3382b52a95ff29c011e372d9922140e1007a67802a1fdc38f07da4d4e.jpg",
+    "gitBlobSha1": "68026eca82156148939809224fbd5727a1c3488b"
+  },
+  {
     "cardId": "t_advertising_w157",
     "word": "soprano",
     "meaning": "сопрано",
