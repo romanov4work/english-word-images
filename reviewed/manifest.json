@@ -185486,6 +185486,34 @@
     "gitBlobSha1": "b16fefd854c20dea75de87a23742a393f3d0cc0b"
   },
   {
+    "cardId": "w12051",
+    "word": "you fell off",
+    "meaning": "ты скатился",
+    "senseFingerprint": "2d06ffd04d8711cd3f57f1ae06bdd615fc50726e5c2bf70cc29620119449928f",
+    "sha256": "9eba4eb5ecbb4ed4f0e179e7ded3ca392e8fdf55d0d6c53cd2ac6fdc9d8e516b",
+    "searchQuery": "social media creator losing followers and views after a scandal, declining audience graph, no text",
+    "searchUrl": "https://yandex.com/images/search?text=social%20media%20creator%20losing%20followers%20and%20views%20after%20a%20scandal%2C%20declining%20audience%20graph%2C%20no%20text",
+    "sourcePageUrl": "https://blog.hubspot.com/marketing/losing-followers-instagram",
+    "downloadedUrl": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/losing-followers-on-instagram-1-20250220-9498594.webp",
+    "visualReview": {
+      "rank": 14149,
+      "cardId": "w12051",
+      "word": "you fell off",
+      "senseFingerprint": "2d06ffd04d8711cd3f57f1ae06bdd615fc50726e5c2bf70cc29620119449928f",
+      "sha256": "9eba4eb5ecbb4ed4f0e179e7ded3ca392e8fdf55d0d6c53cd2ac6fdc9d8e516b",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "5d037648b5469914efffb2f16851eafd27a2dd39d5f2a0a7608a7dfdb0af5d95",
+      "note": "Coordinator inspected the full image and exact square crop; the clear infographic directly shows loss of followers, fitting the figurative loss of popularity.",
+      "reviewMethod": "Coordinator visual review of saved full candidate and exact generated square crop.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/9eba4eb5ecbb4ed4f0e179e7ded3ca392e8fdf55d0d6c53cd2ac6fdc9d8e516b.jpg",
+    "gitBlobSha1": "051e6bddcb86ab001eb1848ce155365bb5ced7f8"
+  },
+  {
     "cardId": "w13629",
     "word": "you kidding me",
     "meaning": "ты шутишь надо мной",
