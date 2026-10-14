@@ -184662,6 +184662,32 @@
     "gitBlobSha1": "0eecb05e3f9c97e506c401f862369a1025cdda8c"
   },
   {
+    "cardId": "w13107",
+    "word": "Vanced",
+    "meaning": "Вансед",
+    "senseFingerprint": "50e9b71bfc4fa32370eac6eb9a4bd81f83d09b6d6d4ca2bc3dc304d2d1fb1f4c",
+    "sha256": "503002d9d6a31be9bb857d1b0db98ca91dcca54c1a5ce7557ebc0338fbaa9c17",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/3d1d701e368c16324ff3f7c57475436a94a0b220",
+    "visualReview": {
+      "rank": 14095,
+      "cardId": "w13107",
+      "word": "Vanced",
+      "senseFingerprint": "50e9b71bfc4fa32370eac6eb9a4bd81f83d09b6d6d4ca2bc3dc304d2d1fb1f4c",
+      "sha256": "503002d9d6a31be9bb857d1b0db98ca91dcca54c1a5ce7557ebc0338fbaa9c17",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "fd3b7e50118d70e6d097bbf0e9bb5f2ed88ceed2eb50ae1c72ba72dcc67a48ce",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop. Contextual illustration; not presented as an ideal literal match.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/3d1d701e368c16324ff3f7c57475436a94a0b220"
+    },
+    "remotePath": "reviewed/v1/503002d9d6a31be9bb857d1b0db98ca91dcca54c1a5ce7557ebc0338fbaa9c17.jpg",
+    "gitBlobSha1": "3d1d701e368c16324ff3f7c57475436a94a0b220"
+  },
+  {
     "cardId": "w13162",
     "word": "verbal visualization",
     "meaning": "вербальная визуализация",
