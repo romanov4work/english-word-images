@@ -176050,6 +176050,32 @@
     "gitBlobSha1": "8f5f58c6ed3f5448c04fee3af1d94068743356a1"
   },
   {
+    "cardId": "w13946",
+    "word": "International Space Station",
+    "meaning": "международная космическая станция",
+    "senseFingerprint": "b1452ac77f533b3a90ffe5916957ee8316b0ddba110934e201ae92e5c39e20ad",
+    "sha256": "77c31931aa53a95eba2a0f1378cb7be378bed36e01769369a18f057be89e1bf6",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/b5c9d4f980b4eb50d15572e02943e55ec63e5960",
+    "visualReview": {
+      "rank": 13504,
+      "cardId": "w13946",
+      "word": "International Space Station",
+      "senseFingerprint": "b1452ac77f533b3a90ffe5916957ee8316b0ddba110934e201ae92e5c39e20ad",
+      "sha256": "77c31931aa53a95eba2a0f1378cb7be378bed36e01769369a18f057be89e1bf6",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "7bd7017c8d1f07ed382e19cd3379e289e723416a4f45be9bf4bfdc75972b066a",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/b5c9d4f980b4eb50d15572e02943e55ec63e5960"
+    },
+    "remotePath": "reviewed/v1/77c31931aa53a95eba2a0f1378cb7be378bed36e01769369a18f057be89e1bf6.jpg",
+    "gitBlobSha1": "b5c9d4f980b4eb50d15572e02943e55ec63e5960"
+  },
+  {
     "cardId": "w11773",
     "word": "intoxicate",
     "meaning": "опьянять",
@@ -176104,6 +176130,32 @@
     },
     "remotePath": "reviewed/v1/cd564e6e94afabc2e3a3349e1ad4ed38e847e84b795c3fa13b8d19c753851d66.jpg",
     "gitBlobSha1": "86eac169587435899d2af922ef3692099bdbf9e5"
+  },
+  {
+    "cardId": "w13552",
+    "word": "Iron Age",
+    "meaning": "железный век",
+    "senseFingerprint": "766fcc5b1cf3acd3f1a5a69018c470182b0d3024eac125a2ceea4540c7350abf",
+    "sha256": "f32e80fb83581cd789d14ca955193d58d5ac0b1d8d90c951321ee5468f091348",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/b7cfd26818952926680465eda2fa89e5fd1aa0a7",
+    "visualReview": {
+      "rank": 13508,
+      "cardId": "w13552",
+      "word": "Iron Age",
+      "senseFingerprint": "766fcc5b1cf3acd3f1a5a69018c470182b0d3024eac125a2ceea4540c7350abf",
+      "sha256": "f32e80fb83581cd789d14ca955193d58d5ac0b1d8d90c951321ee5468f091348",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "e674f6f3d5e1728a32ad0d2af5a1041e875809fc43cfe523f50e03308f77657b",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/b7cfd26818952926680465eda2fa89e5fd1aa0a7"
+    },
+    "remotePath": "reviewed/v1/f32e80fb83581cd789d14ca955193d58d5ac0b1d8d90c951321ee5468f091348.jpg",
+    "gitBlobSha1": "b7cfd26818952926680465eda2fa89e5fd1aa0a7"
   },
   {
     "cardId": "w11095",
