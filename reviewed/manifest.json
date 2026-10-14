@@ -183610,6 +183610,34 @@
     "gitBlobSha1": "5939dade509ab6ff0d89e9bb1a641d73e5364557"
   },
   {
+    "cardId": "w12055",
+    "word": "this is why no one respects you",
+    "meaning": "вот почему тебя никто не уважает",
+    "senseFingerprint": "1594bced6ff3245df0e8da3d4976d55ef341146a257ea4b1e5e7ec25e48732a6",
+    "sha256": "ef3bec4886c8a297fe93861e736d87957216fec927400c2e055a3bbba6ae6ae8",
+    "searchQuery": "Realistic photo of a person being ignored or excluded by others in a social situation, illustrating why others may lose respect for someone. No text, quotes, posters, worksheets, diagrams, or memes.",
+    "searchUrl": "https://yandex.com/images/search?text=Realistic%20photo%20of%20a%20person%20being%20ignored%20or%20excluded%20by%20others%20in%20a%20social%20situation%2C%20illustrating%20why%20others%20may%20lose%20respect%20for%20someone.%20No%20text%2C%20quotes%2C%20posters%2C%20worksheets%2C%20diagrams%2C%20or%20memes.",
+    "sourcePageUrl": "https://www.believeinmind.com/self-growth/when-someone-ignores-you/",
+    "downloadedUrl": "https://www.believeinmind.com/wp-content/uploads/2023/10/Why-People-Might-Ignore-You-1024x768.webp",
+    "visualReview": {
+      "rank": 14016,
+      "cardId": "w12055",
+      "word": "this is why no one respects you",
+      "senseFingerprint": "1594bced6ff3245df0e8da3d4976d55ef341146a257ea4b1e5e7ec25e48732a6",
+      "sha256": "ef3bec4886c8a297fe93861e736d87957216fec927400c2e055a3bbba6ae6ae8",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "7cc8f939d498158cfc62649fd8202081eb0733e0e7f6e5ec88f03ce1f4cba7be",
+      "note": "Attempt 2: the illustration shows a person looking at a phone while another person tries to get his attention; headline says “Why People Might Ignore You”. This is a clear, relevant illustration of being ignored, though it does not literally establish disrespect. Accepted as a reasonable scene for the phrase; source image and square cover inspected.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/ef3bec4886c8a297fe93861e736d87957216fec927400c2e055a3bbba6ae6ae8.jpg",
+    "gitBlobSha1": "14ace3b21300071e5b2800eaf14c4f38331edc12"
+  },
+  {
     "cardId": "w13721",
     "word": "time flies",
     "meaning": "время летит",
@@ -183692,6 +183720,34 @@
     },
     "remotePath": "reviewed/v1/a06fd71ced5e58f88fdbdfb8b72022f5600a23647ccad56d4554d82c7bb09347.jpg",
     "gitBlobSha1": "f0dfad6dec9c64942f0983e3f28385e51f2acf45"
+  },
+  {
+    "cardId": "w13419",
+    "word": "to bloom",
+    "meaning": "цвести",
+    "senseFingerprint": "b78a4d0736302382ad48718990734bf499994b3842dd81efd5a30a1fe4f50483",
+    "sha256": "b5e247c43b500b1a5130eea13323c0fecfe4e48a6032fe2fc480bfe7a360db52",
+    "searchQuery": "Close-up high-resolution photograph of a flower bud opening into bloom on a living plant, natural colors, clear centered subject. No text, quotes, posters, worksheets, diagrams, or memes.",
+    "searchUrl": "https://yandex.com/images/search?text=Close-up%20high-resolution%20photograph%20of%20a%20flower%20bud%20opening%20into%20bloom%20on%20a%20living%20plant%2C%20natural%20colors%2C%20clear%20centered%20subject.%20No%20text%2C%20quotes%2C%20posters%2C%20worksheets%2C%20diagrams%2C%20or%20memes.",
+    "sourcePageUrl": "https://videos.pexels.com/photo/bright-blooming-gerbera-growing-near-fence-in-garden-3880842",
+    "downloadedUrl": "https://images.pexels.com/photos/4150533/pexels-photo-4150533.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "visualReview": {
+      "rank": 14031,
+      "cardId": "w13419",
+      "word": "to bloom",
+      "senseFingerprint": "b78a4d0736302382ad48718990734bf499994b3842dd81efd5a30a1fe4f50483",
+      "sha256": "b5e247c43b500b1a5130eea13323c0fecfe4e48a6032fe2fc480bfe7a360db52",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "c2e3a664d8689bf2a35b9eea8cf1377d12967c54b1ebb9b2e05f33316943e423",
+      "note": "Attempt 2: the full photo and square cover show a flower bud opening / flowering plant, a direct visual example for “to bloom”. Accepted.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/b5e247c43b500b1a5130eea13323c0fecfe4e48a6032fe2fc480bfe7a360db52.jpg",
+    "gitBlobSha1": "ddff651252eb1472ca1730f725b08581c14ea738"
   },
   {
     "cardId": "w13488",
