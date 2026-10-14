@@ -26165,6 +26165,34 @@
     "gitBlobSha1": "30988b298e842727692ada001c0f0be5fa95e6a0"
   },
   {
+    "cardId": "w818",
+    "word": "visiting",
+    "meaning": "приезжий",
+    "senseFingerprint": "54b0c58da4676d82f7411c3366adfe875ddd5d8114d12424a7f09577c3259ded",
+    "sha256": "9bb3c414cc42d45740ac18fd0a3e2884f38640825a88a5a6eee2dc9b7a5c0f7e",
+    "searchQuery": "guest speaker lecture university",
+    "searchUrl": "https://yandex.com/images/search?text=guest%20speaker%20lecture%20university",
+    "sourcePageUrl": "https://ssp.org/guest-lecture-series/",
+    "downloadedUrl": "https://ssp.org/wp-content/uploads/2025/02/CJA00028-1024x683.jpg",
+    "visualReview": {
+      "rank": 1922,
+      "cardId": "w818",
+      "word": "visiting",
+      "senseFingerprint": "54b0c58da4676d82f7411c3366adfe875ddd5d8114d12424a7f09577c3259ded",
+      "sha256": "9bb3c414cc42d45740ac18fd0a3e2884f38640825a88a5a6eee2dc9b7a5c0f7e",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "25578068b29a754abf401ec747417838b3cc6aa8f1760c70c6f9c11aa45be62a",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/9bb3c414cc42d45740ac18fd0a3e2884f38640825a88a5a6eee2dc9b7a5c0f7e.jpg",
+    "gitBlobSha1": "add98c36ef4e25a1e8a314f808a3dc17a71e2f57"
+  },
+  {
     "cardId": "w5066",
     "word": "depression",
     "meaning": "депрессия",
