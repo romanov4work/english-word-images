@@ -182344,6 +182344,32 @@
     "gitBlobSha1": "42ef10d11becb875ce8d62733d4a9587e7977a6e"
   },
   {
+    "cardId": "w12166",
+    "word": "SLR camera",
+    "meaning": "зеркальный фотоаппарат",
+    "senseFingerprint": "f1393abc0ae266e1006103643f2befb607981d08dcdb584374866f5dd61071df",
+    "sha256": "a97e620efb85bc0cf88d195fea638beb25236610607461b1df52da606bcf8dfb",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/409717cd491b5ee79b735913ad28ee32a52ad75e",
+    "visualReview": {
+      "rank": 13911,
+      "cardId": "w12166",
+      "word": "SLR camera",
+      "senseFingerprint": "f1393abc0ae266e1006103643f2befb607981d08dcdb584374866f5dd61071df",
+      "sha256": "a97e620efb85bc0cf88d195fea638beb25236610607461b1df52da606bcf8dfb",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "bbfcb17e44fe51368187fd29c96b0d31f03d3e460bdad5b539344f3f3903b377",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/409717cd491b5ee79b735913ad28ee32a52ad75e"
+    },
+    "remotePath": "reviewed/v1/a97e620efb85bc0cf88d195fea638beb25236610607461b1df52da606bcf8dfb.jpg",
+    "gitBlobSha1": "409717cd491b5ee79b735913ad28ee32a52ad75e"
+  },
+  {
     "cardId": "w12032",
     "word": "smooth brain",
     "meaning": "глупый (сленг)",
@@ -182482,6 +182508,32 @@
     },
     "remotePath": "reviewed/v1/5d8c4833b7fdaafbce3b8660fc39a44542fb059782edd2d2aed1370c8de4334f.jpg",
     "gitBlobSha1": "66b0b065d34d298ad11a685a2bfe1609448c0b15"
+  },
+  {
+    "cardId": "w13845",
+    "word": "Socratic method",
+    "meaning": "сократовский метод",
+    "senseFingerprint": "7f8c1592fa38dbb4bb8d5d3f92d3fff648e633a36f16285c698b9053400a22b2",
+    "sha256": "f6506892da2680ec2b6fc1bd6802e5f47a9bda12691c3cc220ba3b112d899d33",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/ac99561e9396c039db3f91155d0126b803584c0a",
+    "visualReview": {
+      "rank": 13919,
+      "cardId": "w13845",
+      "word": "Socratic method",
+      "senseFingerprint": "7f8c1592fa38dbb4bb8d5d3f92d3fff648e633a36f16285c698b9053400a22b2",
+      "sha256": "f6506892da2680ec2b6fc1bd6802e5f47a9bda12691c3cc220ba3b112d899d33",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "0c8b0f1a284e557331411fa0dcf1585328ea99f5f40c7b3ca28262afd469c653",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop. Contextual illustration; not presented as an ideal literal match.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/ac99561e9396c039db3f91155d0126b803584c0a"
+    },
+    "remotePath": "reviewed/v1/f6506892da2680ec2b6fc1bd6802e5f47a9bda12691c3cc220ba3b112d899d33.jpg",
+    "gitBlobSha1": "ac99561e9396c039db3f91155d0126b803584c0a"
   },
   {
     "cardId": "w13307",
@@ -182790,6 +182842,32 @@
     },
     "remotePath": "reviewed/v1/0130c32456d543a78857addca6e396713afc2f7a0d4ea6dde591171ce693e9c2.jpg",
     "gitBlobSha1": "62879a30b11fc6c634e9d80daa87f69b517e270b"
+  },
+  {
+    "cardId": "w14039",
+    "word": "SSL/TLS",
+    "meaning": "SSL/TLS (протоколы безопасности)",
+    "senseFingerprint": "0d3b455ecf7363a42eed1f94627a3dc37733c61f2aea8e88bf5eee79dea7a130",
+    "sha256": "ebd013bb28897b951235c531d413178ff31c18a24709aab2eb8a39652b778078",
+    "downloadedUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/9af02c1a5a46be0adecbe66b742f08070ffb2baf",
+    "visualReview": {
+      "rank": 13944,
+      "cardId": "w14039",
+      "word": "SSL/TLS",
+      "senseFingerprint": "0d3b455ecf7363a42eed1f94627a3dc37733c61f2aea8e88bf5eee79dea7a130",
+      "sha256": "ebd013bb28897b951235c531d413178ff31c18a24709aab2eb8a39652b778078",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "54b237f94e0065dee35cc3c6abb37750fb3e5ef7a3fc4df814813049fc370cc6",
+      "note": "Exact saved legacy source restored; coordinator checked canonical meaning, examples, full image, and square crop. Contextual illustration; not presented as an ideal literal match.",
+      "reviewMethod": "Coordinator independently checked canonical meaning, examples, full image, and exact square crop.",
+      "sourceApproval": "pending",
+      "sourceUrl": "https://api.github.com/repos/romanov4work/english-word-images/git/blobs/9af02c1a5a46be0adecbe66b742f08070ffb2baf"
+    },
+    "remotePath": "reviewed/v1/ebd013bb28897b951235c531d413178ff31c18a24709aab2eb8a39652b778078.jpg",
+    "gitBlobSha1": "9af02c1a5a46be0adecbe66b742f08070ffb2baf"
   },
   {
     "cardId": "w13170",
