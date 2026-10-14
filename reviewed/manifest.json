@@ -158802,6 +158802,31 @@
     "gitBlobSha1": "2385fc2515cc6cdb619f835cbcaf7161a55f3e4d"
   },
   {
+    "cardId": "w14020",
+    "word": "DevOps",
+    "meaning": "девопс",
+    "senseFingerprint": "c2b173cde6b02c3a3003c60b25e7de0d2afa80a8adf696658bf837f1ecd7f65b",
+    "sha256": "b8856aafd447a9d345127cd2c27bbed235a8425e1debfe6e4f4948aa0fb5f7a7",
+    "searchQuery": "",
+    "visualReview": {
+      "rank": 12263,
+      "cardId": "w14020",
+      "word": "DevOps",
+      "senseFingerprint": "c2b173cde6b02c3a3003c60b25e7de0d2afa80a8adf696658bf837f1ecd7f65b",
+      "sha256": "b8856aafd447a9d345127cd2c27bbed235a8425e1debfe6e4f4948aa0fb5f7a7",
+      "decision": "good",
+      "retainedCurrent": true,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "b379bd5e6465122f9ca1b214641f76e1d44b89ef267dc3a379664ea294b2aeb7",
+      "note": "Retain the original exact legacy image. Publish the same reviewed pixels as a pinned binding because the legacy filename casing does not resolve reliably.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "ready"
+    },
+    "remotePath": "reviewed/v1/b8856aafd447a9d345127cd2c27bbed235a8425e1debfe6e4f4948aa0fb5f7a7.jpg",
+    "gitBlobSha1": "ab7fd8a75f0cf8bdcb7520a2529461dadf6225b2"
+  },
+  {
     "cardId": "w11783",
     "word": "twit",
     "meaning": "дурак",
@@ -158884,6 +158909,31 @@
     },
     "remotePath": "reviewed/v1/a9debd6ddbd595d20543625839772dcce77caede8e5c28fb25410c6e49da7515.jpg",
     "gitBlobSha1": "b6fa1f45b1e0a9f3ad5fc41037fb05fdf86d6018"
+  },
+  {
+    "cardId": "w14093",
+    "word": "Kubernetes",
+    "meaning": "кубернетес (оркестрация)",
+    "senseFingerprint": "8ca4b1a45204c72d396061d1e2f5a61fbca0b174e67ae51dcd357a154eb38fbd",
+    "sha256": "84de766a771df28a6d4cceb2f5f4d4b889fc72e3047662479fcd3449c8bf1352",
+    "searchQuery": "",
+    "visualReview": {
+      "rank": 12272,
+      "cardId": "w14093",
+      "word": "Kubernetes",
+      "senseFingerprint": "8ca4b1a45204c72d396061d1e2f5a61fbca0b174e67ae51dcd357a154eb38fbd",
+      "sha256": "84de766a771df28a6d4cceb2f5f4d4b889fc72e3047662479fcd3449c8bf1352",
+      "decision": "good",
+      "retainedCurrent": true,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "9a3974d8e3fd9eaa29453853bd9df3e57c287ea22ba315d198893677982da65b",
+      "note": "Retain the original exact legacy image. Publish the same reviewed pixels as a pinned binding because the legacy filename casing does not resolve reliably.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "ready"
+    },
+    "remotePath": "reviewed/v1/84de766a771df28a6d4cceb2f5f4d4b889fc72e3047662479fcd3449c8bf1352.jpg",
+    "gitBlobSha1": "eb3733731722c5c20611b57f32367382ffeefa77"
   },
   {
     "cardId": "w4135",
