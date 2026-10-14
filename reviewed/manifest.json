@@ -5124,6 +5124,21 @@
     "gitBlobSha1": "b16d153f554b7284b7b3ed562a653cdbdd4ac673"
   },
   {
+    "cardId": "w2758",
+    "word": "Canadian",
+    "meaning": "канадский",
+    "senseFingerprint": "f51e72480a8e647434ef190c8b316ea5956e37e6fa1d9845355a6c44e493000d",
+    "sha256": "bf40845e97cf6b3430503cfce526ba4886f1c5c00712f87172868b5edf506242",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/canadian.jpg",
+    "visualReview": {
+      "cardId": "w2758",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w413",
     "word": "model",
     "meaning": "модель",
@@ -6048,6 +6063,21 @@
     "gitBlobSha1": "a5067921df13847cccdcdb628d2318a93acc0764"
   },
   {
+    "cardId": "w2800",
+    "word": "Spanish",
+    "meaning": "испанский",
+    "senseFingerprint": "21fe43bb5bc5de0f535f7e6a993082c8c5c116b02a24e154152cb1e3ca6fd32b",
+    "sha256": "342335bf5b2be7811807f6256c67c19090a875e6332f5cd0709ce661258965c3",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/spanish.jpg",
+    "visualReview": {
+      "cardId": "w2800",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w4419",
     "word": "regional",
     "meaning": "региональный",
@@ -6496,6 +6526,21 @@
     "gitBlobSha1": "7ac27ac26b52861785c6e88824d9fb58dbee107c"
   },
   {
+    "cardId": "w12313",
+    "word": "Texas",
+    "meaning": "Техас",
+    "senseFingerprint": "54c5ead73b777e7045647af848c00d23b511b6cbcc7f68a6dc85976b3f803b6c",
+    "sha256": "700992816b10b6c9038be0924b4d5ed074da0ea1420aa80e6f189055ada46d59",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/texas.jpg",
+    "visualReview": {
+      "cardId": "w12313",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w1345",
     "word": "provide",
     "meaning": "обеспечивать",
@@ -6748,6 +6793,21 @@
     "gitBlobSha1": "13fc802c8126bf206725f050f8f120e536d343f5"
   },
   {
+    "cardId": "w2741",
+    "word": "Christian",
+    "meaning": "христианин",
+    "senseFingerprint": "082ee523325259f443cef833a36876f0e0ce897a0dd5ee60c9a1649a8f040719",
+    "sha256": "56fbe0a09bdeb2fbd86ffe9b41aceb673f8da5587e50b8740b4cf4fe64e92d3b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/christians.jpg",
+    "visualReview": {
+      "cardId": "w2741",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified. pinnedUrl aligned to the activated URL (christian.jpg and christians.jpg are byte-identical remote copies of the same SHA)."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w299",
     "word": "interest",
     "meaning": "интерес; заинтересовывать",
@@ -6914,6 +6974,21 @@
     },
     "remotePath": "reviewed/v1/a85d5ff888c0a25170cbd1eee284f6abc17c736b5850c13309d1b32e31896fa8.jpg",
     "gitBlobSha1": "b4a5c474d33a6da1ce9c728581ee9ed1b9d40e82"
+  },
+  {
+    "cardId": "w3015",
+    "word": "Catholic",
+    "meaning": "католический",
+    "senseFingerprint": "7d0c8e2d7e2d7717985c968c09f84f204d752358a5dbbb24d6f194a074c251a7",
+    "sha256": "22caad7d1dbe669f6116ec72ba977f0bbe28a193c45bac6f08e6f3b50f477a1c",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/catholic.jpg",
+    "visualReview": {
+      "cardId": "w3015",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w1597",
@@ -7560,6 +7635,21 @@
     "gitBlobSha1": "bdb8bcb16fe4cd352ce964f152ed24227919e4b0"
   },
   {
+    "cardId": "w5384",
+    "word": "Soviet",
+    "meaning": "советский",
+    "senseFingerprint": "fcea370d1adbd589142610386892109530268ea67d5f6756b86bfd0bc10667f3",
+    "sha256": "3b66f239042e16ff8318ec2d4beadeec38f7ef249b20c80a6936f04944d749d1",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/soviet.jpg",
+    "visualReview": {
+      "cardId": "w5384",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w566",
     "word": "airport",
     "meaning": "аэропорт",
@@ -7586,6 +7676,21 @@
     },
     "remotePath": "reviewed/v1/9f8452f41c4df8ec123f0189c960192092a03ae4119bbf0617b070a709cbfda0.jpg",
     "gitBlobSha1": "b12ddf90e835a0cb142d23605ecdb355ff36ef29"
+  },
+  {
+    "cardId": "w979",
+    "word": "Olympics",
+    "meaning": "Олимпийские игры",
+    "senseFingerprint": "38313432a1beee9e1e32d783a13e8df9c9cc399276c3d138ebfe601c9792d5a9",
+    "sha256": "5571e335f6ee53bbf6ac2df975de2d39294827adfa4a3b96b9ecc2d77aa8d4d6",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/olympics.jpg",
+    "visualReview": {
+      "cardId": "w979",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w12357",
@@ -8260,6 +8365,21 @@
     "gitBlobSha1": "ae8dd1508313bac71d88fda871db321699c5f66f"
   },
   {
+    "cardId": "w1536",
+    "word": "Italy",
+    "meaning": "Италия",
+    "senseFingerprint": "1fc3e7c510421a2fd0ee33679933ad5632b0790d711f76883369a2aafcbffb99",
+    "sha256": "7204ac422f76f9b8b634fc4c47ef2362c6a553820d35db5e9b90f90c74a5b73e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/italy.jpg",
+    "visualReview": {
+      "cardId": "w1536",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w4758",
     "word": "majority",
     "meaning": "большинство",
@@ -8568,6 +8688,21 @@
     "gitBlobSha1": "b4150d90f1ed06c157d6512dea84c22f53f74396"
   },
   {
+    "cardId": "w660",
+    "word": "Dr",
+    "meaning": "доктор",
+    "senseFingerprint": "5db3702d232a66b04ad5aa7d751d82201b2906a04d2efb2b3febfdba52d4023a",
+    "sha256": "d56f72e929f83aef1b17dd262b5408872f533e9260e6e0e9934765998e055255",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/dr.jpg",
+    "visualReview": {
+      "cardId": "w660",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w1788",
     "word": "mostly",
     "meaning": "в основном",
@@ -8874,6 +9009,21 @@
     },
     "remotePath": "reviewed/v1/d84acf491f4d3fabee36c6837bca781711a92c01672753dd2b0c454060307cb7.jpg",
     "gitBlobSha1": "40777b753620042b035da0c5c2134e9623158cc2"
+  },
+  {
+    "cardId": "w2955",
+    "word": "Greek",
+    "meaning": "греческий",
+    "senseFingerprint": "a0fc3e096be6bd864907d5260ebca71a29df80a0413f99dfa6cc2db64cdca471",
+    "sha256": "7f5fe74301e4e095cefcd66ab72e143a97ba1a8d86974290958d78d419b3b22b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/greek.jpg",
+    "visualReview": {
+      "cardId": "w2955",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w1769",
@@ -11396,6 +11546,21 @@
     "gitBlobSha1": "dd79dd8d655ee054cf1ece6dc8f8819ff6b18a82"
   },
   {
+    "cardId": "w2861",
+    "word": "Latin",
+    "meaning": "латинский",
+    "senseFingerprint": "046c5999e1d1095e47e9e147e164eea7c522e84115daa96d354c8888241e858c",
+    "sha256": "d1049d238969874421959f131d09c630903d08e673706318024d5d5eb001c84d",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/latin.jpg",
+    "visualReview": {
+      "cardId": "w2861",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w4628",
     "word": "marine",
     "meaning": "морской; морской пехотинец",
@@ -11562,6 +11727,21 @@
     },
     "remotePath": "reviewed/v1/3b39bd2f619eb56f4b189bb670652093068649541915ca2beb8cdf5a7470690e.jpg",
     "gitBlobSha1": "29512e93e130599092f5b2a19a837dc420aabbcb"
+  },
+  {
+    "cardId": "w4930",
+    "word": "Br",
+    "meaning": "бром",
+    "senseFingerprint": "18372e889868413aecffbb62869a3aa803c8cf4052ce0d6f6c6b6cf5ff6b37d2",
+    "sha256": "e238317179553e6d83bdd4cc9ada2414f902992b138a4dce8b711ec64c9589c8",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/br.jpg",
+    "visualReview": {
+      "cardId": "w4930",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2684",
@@ -12038,6 +12218,21 @@
     },
     "remotePath": "reviewed/v1/982f7a77fade3b995b8935d8ab13225cc2d16c2033352b4875abe046c00d5d2d.jpg",
     "gitBlobSha1": "de51e22659eb6a62f1dabac78590097bcd9cfbe5"
+  },
+  {
+    "cardId": "w1591",
+    "word": "Jersey",
+    "meaning": "Джерси",
+    "senseFingerprint": "f066088a3fc2bf330a6bc5fd8a52e1f7f3be2d16550551bc4610af5bf8488f16",
+    "sha256": "e451e63c51f75340382ba94f690ce3da0cb9bbb9d41240c6dfc958c63542424c",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/jersey.jpg",
+    "visualReview": {
+      "cardId": "w1591",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4390",
@@ -14530,6 +14725,21 @@
     },
     "remotePath": "reviewed/v1/18f7220b07dd2554c8a2b04a21a4ef0a6d3fb6a60710c5e1991552a894cf21b7.jpg",
     "gitBlobSha1": "e21bbe14340bb4ebf836aefcccfb0b76f64c8d57"
+  },
+  {
+    "cardId": "w2836",
+    "word": "Santa",
+    "meaning": "санта клаус",
+    "senseFingerprint": "3bdb46ac78c3d53fd365a705c1564c9d8dc7be176c4057bbbea8ec2a90c6aac8",
+    "sha256": "07ecc8c1ea88acca406748c5affdf0b28958a8aceec4b7af9b175b0daad0ded5",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/santa.jpg",
+    "visualReview": {
+      "cardId": "w2836",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4696",
@@ -17920,6 +18130,21 @@
     "gitBlobSha1": "a16a7f8cdbf1a5138c0c4df9ea6ea7740a2a79a5"
   },
   {
+    "cardId": "w1334",
+    "word": "USA",
+    "meaning": "соединенные штаты америки",
+    "senseFingerprint": "0b8e7921a6fbf97e2f424bcaee72519568d86f91f75014c2e15fc4411069f324",
+    "sha256": "9f9b7132e797a207a9e8ed222d92b3c7627774f97cb1c1f64cc5e9b6c80d3b85",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/usa.jpg",
+    "visualReview": {
+      "cardId": "w1334",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w3020",
     "word": "focused",
     "meaning": "сосредоточенный",
@@ -18114,6 +18339,21 @@
     },
     "remotePath": "reviewed/v1/d73b046510f19db264863789d84a10e0867ba64c720b09ddc8a1516f5e7ef433.jpg",
     "gitBlobSha1": "a7031fa6c393dc9a9d59b56c58755d795aebaef1"
+  },
+  {
+    "cardId": "w12356",
+    "word": "Andrew",
+    "meaning": "эндрю (имя)",
+    "senseFingerprint": "f86a867d7f28dc538540b34a8a4548c165f30e2a6454188818632e73fe0ecc52",
+    "sha256": "402c1b119eab7f87e77cc56e0c0f3ec66341fa017eb2bc986c70daf3f6d2ba81",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/andrew.jpg",
+    "visualReview": {
+      "cardId": "w12356",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4893",
@@ -19712,6 +19952,62 @@
     "gitBlobSha1": "58ba88aae219eaca600175b097a8c0ece3ec8fa2"
   },
   {
+    "cardId": "w537",
+    "word": "doing",
+    "meaning": "выполнение",
+    "senseFingerprint": "84e6b52cc90b427d5671af1cdbdd024193cc1710e3666384b27029ada677667c",
+    "sha256": "3438c5a233711b74b4e3cab241b0d641beaaa9578bfafee88ee0197c1ea985ad",
+    "searchQuery": "woman doing dishes washing plate photo",
+    "searchUrl": "https://yandex.com/images/search?text=woman%20doing%20dishes%20washing%20plate%20photo",
+    "sourcePageUrl": "https://ru.freepik.com/photos/wash-dishes/3",
+    "downloadedUrl": "https://img.magnific.com/premium-photo/young-smiling-beautiful-woman-washing-dishes-kitchen_175682-51760.jpg?semt=ais_hybrid&w=740&q=80",
+    "visualReview": {
+      "rank": 1504,
+      "cardId": "w537",
+      "word": "doing",
+      "senseFingerprint": "84e6b52cc90b427d5671af1cdbdd024193cc1710e3666384b27029ada677667c",
+      "sha256": "3438c5a233711b74b4e3cab241b0d641beaaa9578bfafee88ee0197c1ea985ad",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "a275dd95b7b65113a2dfaf332a295d88b7ddf754913c53bfc48704a367c91f11",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/3438c5a233711b74b4e3cab241b0d641beaaa9578bfafee88ee0197c1ea985ad.jpg",
+    "gitBlobSha1": "967d49de23a542dbf0cdae90617b3a1de8017730"
+  },
+  {
+    "cardId": "w3098",
+    "word": "escape",
+    "meaning": "сбежать; спасаться; избегать",
+    "senseFingerprint": "7956f4c047021bb13b666689ddeac3e0182bd98605177ff5eda2d63e6997c06f",
+    "sha256": "38bfd176b7592ac1b76fc7cfa814968f2c2dae12384ea6bf1c80c3030144bca0",
+    "searchQuery": "prisoner escaping running fence photo",
+    "searchUrl": "https://yandex.com/images/search?text=prisoner%20escaping%20running%20fence%20photo",
+    "sourcePageUrl": "https://www.huffingtonpost.co.uk/entry/5-daring-prison-escapes-in-south-africa-from-using-vaseline-to-bending-window-bars_uk_5c7e90a2e4b048b41e398dbd",
+    "downloadedUrl": "https://img.huffingtonpost.com/asset/5c7e90a52600009704fdf21c.jpeg?ops=1200_630",
+    "visualReview": {
+      "rank": 1505,
+      "cardId": "w3098",
+      "word": "escape",
+      "senseFingerprint": "7956f4c047021bb13b666689ddeac3e0182bd98605177ff5eda2d63e6997c06f",
+      "sha256": "38bfd176b7592ac1b76fc7cfa814968f2c2dae12384ea6bf1c80c3030144bca0",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "2ef093510591e59fd7ae7932e878f24434dc31e1dca65824288b23897784058f",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/38bfd176b7592ac1b76fc7cfa814968f2c2dae12384ea6bf1c80c3030144bca0.jpg",
+    "gitBlobSha1": "ef8ca49dd57e22b2ffd6506a100f08ef3a46b238"
+  },
+  {
     "cardId": "w7295",
     "word": "ward",
     "meaning": "палата",
@@ -19824,6 +20120,34 @@
     "gitBlobSha1": "bad13853df5c87f37f22ab23314603f25e243e27"
   },
   {
+    "cardId": "w2696",
+    "word": "registered",
+    "meaning": "зарегистрированный",
+    "senseFingerprint": "bf1d72b1fb595e40a3ce4015def179277a80ef6459334857d0042002163fa925",
+    "sha256": "4e73ba4fce6f780716719fc443a9a1c66f4ff8f177f1502f527e9d3009dcca7d",
+    "searchQuery": "person filling registration form document pen photo",
+    "searchUrl": "https://yandex.com/images/search?text=person%20filling%20registration%20form%20document%20pen%20photo",
+    "sourcePageUrl": "https://www.famu.edu/students/international-education-and-development/recruitment-and-admissions/request-the-i-20-form.php",
+    "downloadedUrl": "https://www.famu.edu/students/international-education-and-development/img/Forms_640x480.jpg",
+    "visualReview": {
+      "rank": 1512,
+      "cardId": "w2696",
+      "word": "registered",
+      "senseFingerprint": "bf1d72b1fb595e40a3ce4015def179277a80ef6459334857d0042002163fa925",
+      "sha256": "4e73ba4fce6f780716719fc443a9a1c66f4ff8f177f1502f527e9d3009dcca7d",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "0653865c3236138f8a996fda24930ccefbbdac86e1fd5f5c4cd58b7b6f67e5e9",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/4e73ba4fce6f780716719fc443a9a1c66f4ff8f177f1502f527e9d3009dcca7d.jpg",
+    "gitBlobSha1": "1385957cb35cc2568c9072e696409ddcef63ebe4"
+  },
+  {
     "cardId": "w4654",
     "word": "extension",
     "meaning": "продление",
@@ -19908,6 +20232,34 @@
     "gitBlobSha1": "0d019a60b0d17fac346a0439205b910f2ea0fc76"
   },
   {
+    "cardId": "w2926",
+    "word": "ahead",
+    "meaning": "впереди",
+    "senseFingerprint": "b0e8e7f47ba63c9f58767386d5388488fa83fe754be46516a4fa95227837cfeb",
+    "sha256": "e0906907d0bef2843372b2aa6bd8c90bfec977271c881908b02443120d77e8c2",
+    "searchQuery": "runner leading race far ahead of competitors photo",
+    "searchUrl": "https://yandex.com/images/search?text=runner%20leading%20race%20far%20ahead%20of%20competitors%20photo",
+    "sourcePageUrl": "https://www.stockvault.net/photo/238834/ahead-of-the-pack-career-advancement",
+    "downloadedUrl": "https://avatars.mds.yandex.net/i?id=8e04a788b8cb2acc8e5afc1ade6555007d7b1303-8995617-images-thumbs&n=13",
+    "visualReview": {
+      "rank": 1520,
+      "cardId": "w2926",
+      "word": "ahead",
+      "senseFingerprint": "b0e8e7f47ba63c9f58767386d5388488fa83fe754be46516a4fa95227837cfeb",
+      "sha256": "e0906907d0bef2843372b2aa6bd8c90bfec977271c881908b02443120d77e8c2",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "2753367cd491273a722bb6eabd5a3f18c88a589f61ed7472b36d7d2271fd6c14",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/e0906907d0bef2843372b2aa6bd8c90bfec977271c881908b02443120d77e8c2.jpg",
+    "gitBlobSha1": "50969fcd0ef8475c5049df964feb3d4c2523750f"
+  },
+  {
     "cardId": "w1959",
     "word": "herself",
     "meaning": "сама",
@@ -19936,6 +20288,21 @@
     "gitBlobSha1": "c6e52b037d3a17f4637ffaf4e0cc9ebbcce1431a"
   },
   {
+    "cardId": "w2730",
+    "word": "Christmas",
+    "meaning": "Рождество",
+    "senseFingerprint": "2ccc2f3d79bc0a11bbdcd7356735d7a2c4a04a7db4fb9de5461e1ee08983d987",
+    "sha256": "98092d872cc3243aaba3a1d88a4975b6487b0dec560b3ad2c0928a8fe22e9482",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/christmas.jpg",
+    "visualReview": {
+      "cardId": "w2730",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w1466",
     "word": "electronic",
     "meaning": "электронный",
@@ -19962,6 +20329,34 @@
     },
     "remotePath": "reviewed/v1/4c373e2bafc6a8b942b6f7d8fcb106d3660c8e8dd3a170c641047a7cefa82c25.jpg",
     "gitBlobSha1": "bdb797622df2f182ac6bc6583e988095b30c83ed"
+  },
+  {
+    "cardId": "w1672",
+    "word": "serious",
+    "meaning": "серьезный",
+    "senseFingerprint": "7acf92c0e059eba871809e69b8f0f67ca5bcdb3f33b7b7ba3102c1258229a6eb",
+    "sha256": "af53fc84888e950f297aa2d0f336481386cf55da47199e7eecf112ebe5050097",
+    "searchQuery": "serious focused man face portrait photo",
+    "searchUrl": "https://yandex.com/images/search?text=serious%20focused%20man%20face%20portrait%20photo",
+    "sourcePageUrl": "https://www.pinterest.com/pin/focused-mindset-aesthetic--23010648094335026/",
+    "downloadedUrl": "https://i.pinimg.com/736x/a3/30/be/a330be9669562ebf9d751f2814080c5b.jpg",
+    "visualReview": {
+      "rank": 1528,
+      "cardId": "w1672",
+      "word": "serious",
+      "senseFingerprint": "7acf92c0e059eba871809e69b8f0f67ca5bcdb3f33b7b7ba3102c1258229a6eb",
+      "sha256": "af53fc84888e950f297aa2d0f336481386cf55da47199e7eecf112ebe5050097",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "9e70a11a757d7f9c88ec84fbece8b4a83f399eb6b5232a082e83f599b20b8673",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/af53fc84888e950f297aa2d0f336481386cf55da47199e7eecf112ebe5050097.jpg",
+    "gitBlobSha1": "93da49884a391fd5753e709adb13f98f7636f715"
   },
   {
     "cardId": "w4701",
@@ -20020,6 +20415,34 @@
     "gitBlobSha1": "c7b960bf1e2e7386d25878e0804dfc6960be427c"
   },
   {
+    "cardId": "w5052",
+    "word": "existence",
+    "meaning": "существование",
+    "senseFingerprint": "1bda71f1032eb0acf288f0b9af85aa39c3c0299dae0bbbc8435f736b2013d69c",
+    "sha256": "ba7e4a42887d12247012254ee5e0c618f550630fae38d0183ae9dfa2e964d297",
+    "searchQuery": "ancient ruins old building still exists photo",
+    "searchUrl": "https://yandex.com/images/search?text=ancient%20ruins%20old%20building%20still%20exists%20photo",
+    "sourcePageUrl": "https://ru.pinterest.com/ideas/ancient-stone-building-ruins/902138008449/",
+    "downloadedUrl": "https://i.pinimg.com/originals/54/cc/e8/54cce8c51b158241b126d0152c100ab7.jpg?nii=t",
+    "visualReview": {
+      "rank": 1532,
+      "cardId": "w5052",
+      "word": "existence",
+      "senseFingerprint": "1bda71f1032eb0acf288f0b9af85aa39c3c0299dae0bbbc8435f736b2013d69c",
+      "sha256": "ba7e4a42887d12247012254ee5e0c618f550630fae38d0183ae9dfa2e964d297",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "504e0bffb147e9567e38cec415b421e0a12a6c6dd17e7c596e5d8967eafc3692",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/ba7e4a42887d12247012254ee5e0c618f550630fae38d0183ae9dfa2e964d297.jpg",
+    "gitBlobSha1": "c15043d4ae5b919479334641bf3654d6bb642057"
+  },
+  {
     "cardId": "w1725",
     "word": "straight",
     "meaning": "прямой",
@@ -20074,6 +20497,34 @@
     },
     "remotePath": "reviewed/v1/102673b3abd76e59fd90fcdb8f68aa93c5f5fe87fe94497b255de32b1ac7b3c4.jpg",
     "gitBlobSha1": "4b4237d42bdd8a4f07b948ae41799badfa3556ca"
+  },
+  {
+    "cardId": "w4607",
+    "word": "attorney",
+    "meaning": "адвокат",
+    "senseFingerprint": "109dba92d0649bbc5e673e0310de719b89d1e82a694b80e924947c662f861caa",
+    "sha256": "269ec7e7112c5899cbbe4b82d2520bc560b153f8dde851cb11e7b7a69e6d5bcf",
+    "searchQuery": "lawyer attorney in suit with briefcase courtroom photo",
+    "searchUrl": "https://yandex.com/images/search?text=lawyer%20attorney%20in%20suit%20with%20briefcase%20courtroom%20photo",
+    "sourcePageUrl": "https://www.pinterest.com/pin/law-student-men-aesthetic--836402962096832685/",
+    "downloadedUrl": "https://i.pinimg.com/originals/57/22/6b/57226b29a617f1f1e0f3d80f823ecfcd.jpg",
+    "visualReview": {
+      "rank": 1537,
+      "cardId": "w4607",
+      "word": "attorney",
+      "senseFingerprint": "109dba92d0649bbc5e673e0310de719b89d1e82a694b80e924947c662f861caa",
+      "sha256": "269ec7e7112c5899cbbe4b82d2520bc560b153f8dde851cb11e7b7a69e6d5bcf",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "354a5c661644db6cf54d6d14f73877b06562411e97cbe9c7679d0d9f5ed6de9a",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/269ec7e7112c5899cbbe4b82d2520bc560b153f8dde851cb11e7b7a69e6d5bcf.jpg",
+    "gitBlobSha1": "c817b2042fa7fd7096a2383a46181266742289d4"
   },
   {
     "cardId": "w199",
@@ -20132,6 +20583,34 @@
     "gitBlobSha1": "573710d37cd86485b0e500f7df8e32082e45f521"
   },
   {
+    "cardId": "w3429",
+    "word": "poet",
+    "meaning": "поэт",
+    "senseFingerprint": "1ae7ce09484e1c03616c11d2f11fb65b99bf7cfd9c1f6fa4ac48365b53bfb9b0",
+    "sha256": "70a058443de77670afc47f9721db6add8aade6cd7ce6723e411e259f4c159620",
+    "searchQuery": "poet writing poem in notebook quill photo",
+    "searchUrl": "https://yandex.com/images/search?text=poet%20writing%20poem%20in%20notebook%20quill%20photo",
+    "sourcePageUrl": "https://ca.pinterest.com/ideas/writing-poetry-aesthetic-notebook/951171852217/",
+    "downloadedUrl": "https://i.pinimg.com/originals/ee/fa/27/eefa2771af65cce33ff1da0bf26085be.jpg?nii=t",
+    "visualReview": {
+      "rank": 1541,
+      "cardId": "w3429",
+      "word": "poet",
+      "senseFingerprint": "1ae7ce09484e1c03616c11d2f11fb65b99bf7cfd9c1f6fa4ac48365b53bfb9b0",
+      "sha256": "70a058443de77670afc47f9721db6add8aade6cd7ce6723e411e259f4c159620",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "3026f1002715e420827440cab439e70991dca7cca7d7c9103e618e8b789243cb",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/70a058443de77670afc47f9721db6add8aade6cd7ce6723e411e259f4c159620.jpg",
+    "gitBlobSha1": "b586f111651cd6276ae13b9d1e84e6e8fd17fbba"
+  },
+  {
     "cardId": "w4826",
     "word": "institution",
     "meaning": "учреждение",
@@ -20158,6 +20637,34 @@
     },
     "remotePath": "reviewed/v1/558edf95f5611124993b04d5e005ef1aeb1a32659683d95ad20d5db713a58563.jpg",
     "gitBlobSha1": "a6d4a7d2bca0e6c2a0ce35e5698b98c0c5cb2c21"
+  },
+  {
+    "cardId": "w727",
+    "word": "negative",
+    "meaning": "отрицательный",
+    "senseFingerprint": "4c16edd7ff747c3198719e6023c9e5dcb753654eb2ad77a148c31b93d142c647",
+    "sha256": "d21143a9c446c8c122663c0789e50d1db8eacbe907a2ed08d183492e101b6348",
+    "searchQuery": "negative covid test result photo",
+    "searchUrl": "https://yandex.com/images/search?text=negative%20covid%20test%20result%20photo",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Negative_Covid_19_report_might_shock_you!!!.jpg",
+    "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Negative_Covid_19_report_might_shock_you%21%21%21.jpg",
+    "visualReview": {
+      "rank": 1544,
+      "cardId": "w727",
+      "word": "negative",
+      "senseFingerprint": "4c16edd7ff747c3198719e6023c9e5dcb753654eb2ad77a148c31b93d142c647",
+      "sha256": "d21143a9c446c8c122663c0789e50d1db8eacbe907a2ed08d183492e101b6348",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "36b5a5b965b1cc9d59dfdef288ee3ad33acee7642e6120b49881a6aae69be0e8",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/d21143a9c446c8c122663c0789e50d1db8eacbe907a2ed08d183492e101b6348.jpg",
+    "gitBlobSha1": "865d3e2448dd7c46d91e4ee9d6d8ba3e924c76de"
   },
   {
     "cardId": "w716",
@@ -20244,6 +20751,62 @@
     "gitBlobSha1": "f84bfa8b84b1f68250d32acbe51c1bcc69fbc543"
   },
   {
+    "cardId": "w169",
+    "word": "believe",
+    "meaning": "верить",
+    "senseFingerprint": "8bffe21718f216083806e5561264136ab035ff8cc4fa3f9f36095160868c0b0c",
+    "sha256": "e20f5a06c3b571f7f030d8cfaf172dafb23db340e2b776ebafcd03925b712bd5",
+    "searchQuery": "person thinking believe faith sky photo",
+    "searchUrl": "https://yandex.com/images/search?text=person%20thinking%20believe%20faith%20sky%20photo",
+    "sourcePageUrl": "https://ru.pinterest.com/pin/image-leap-of-faith-safesearchnortoncom-image-search-results--695383998700927573/",
+    "downloadedUrl": "https://i.pinimg.com/originals/a6/a7/3d/a6a73dba07dc70ab4fbd481eaaaa3bf1.png",
+    "visualReview": {
+      "rank": 1549,
+      "cardId": "w169",
+      "word": "believe",
+      "senseFingerprint": "8bffe21718f216083806e5561264136ab035ff8cc4fa3f9f36095160868c0b0c",
+      "sha256": "e20f5a06c3b571f7f030d8cfaf172dafb23db340e2b776ebafcd03925b712bd5",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "c60e927d328164ef1bb8159d1ed9e94fbea5f314cecd8a61f5d5b9da7214bdeb",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/e20f5a06c3b571f7f030d8cfaf172dafb23db340e2b776ebafcd03925b712bd5.jpg",
+    "gitBlobSha1": "1851364027b4e290820ed5976133e97a5fdc1306"
+  },
+  {
+    "cardId": "w1679",
+    "word": "protect",
+    "meaning": "защищать",
+    "senseFingerprint": "d0b6750cea7c046ce1a1657bbb6131f72500852f2eff8e01e393169f657b8e4a",
+    "sha256": "e62ef9fbeefd5a0e1161a7911df390f509229d86795816c2e07f4f93f7ed3ed6",
+    "searchQuery": "umbrella protecting child rain -grammar -worksheet -textbook -exercise -lesson",
+    "searchUrl": "https://yandex.com/images/search?text=umbrella%20protecting%20child%20rain%20-grammar%20-worksheet%20-textbook%20-exercise%20-lesson",
+    "sourcePageUrl": "https://lady.mail.ru/article/599753-yubka-v-kletku-i-shpilki-novyj-stilnyj-vyhod-kejt-middlton-v-irlandii/",
+    "downloadedUrl": "https://resizer.mail.ru/p/9cd5523b-89c2-5111-8a30-201707c2cae9/dpr:200/AQAFEorBJZogJUXhkxlrAPizbRt_LWkWKctomrZSbLX7cGXAqYBKHuIMWmq1L7EolFw7t1B5B5RMDzat8rwZ6vepmKI.jpg",
+    "visualReview": {
+      "rank": 1550,
+      "cardId": "w1679",
+      "word": "protect",
+      "senseFingerprint": "d0b6750cea7c046ce1a1657bbb6131f72500852f2eff8e01e393169f657b8e4a",
+      "sha256": "e62ef9fbeefd5a0e1161a7911df390f509229d86795816c2e07f4f93f7ed3ed6",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "df2e779cdb5140a728af1c756cc82fb5dcd409fd2c05d471053875ae2dd52deb",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/e62ef9fbeefd5a0e1161a7911df390f509229d86795816c2e07f4f93f7ed3ed6.jpg",
+    "gitBlobSha1": "de053eb6181ab1aa2e0d50221aa122a760bfa076"
+  },
+  {
     "cardId": "w544",
     "word": "someone",
     "meaning": "кто-то",
@@ -20328,6 +20891,21 @@
     "gitBlobSha1": "37c339d5ce4d234cb7c7159cfc634e38db493136"
   },
   {
+    "cardId": "w5228",
+    "word": "Turkish",
+    "meaning": "турецкий",
+    "senseFingerprint": "22e7e01405bfece847c7ecd7b048c557a59e814b214175dd83e89f951843493d",
+    "sha256": "91115f79f083f2f6b859fb38410e3148def427f54c3fab16fc3dc1dbe1080073",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/turkish.jpg",
+    "visualReview": {
+      "cardId": "w5228",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w4969",
     "word": "anniversary",
     "meaning": "годовщина",
@@ -20384,6 +20962,21 @@
     "gitBlobSha1": "4fb0a7150c256330872c0357caf612657e635d3d"
   },
   {
+    "cardId": "w2880",
+    "word": "Harry",
+    "meaning": "Гарри",
+    "senseFingerprint": "bd6792ca6a6c5cd8fffd87e009f001e96ff151c9c04d009bd494716b2f5bd408",
+    "sha256": "e3e495a657a24a17ed2e79c62fd9fe1138d25286775a485a89a9b28108b78eb5",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/harry.jpg",
+    "visualReview": {
+      "cardId": "w2880",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w662",
     "word": "heard",
     "meaning": "услышал; услышанный",
@@ -20410,6 +21003,34 @@
     },
     "remotePath": "reviewed/v1/c952733cf73c91aaeed78a1bfa67dace45d0b863ab38d28512a0f9eb1b7a4bd7.jpg",
     "gitBlobSha1": "d1cca346422356230ec8b732f89f795594fb1cd4"
+  },
+  {
+    "cardId": "w2839",
+    "word": "fuel",
+    "meaning": "топливо",
+    "senseFingerprint": "a9a32b2dde0952bba589e7cd25b4e502e8838492fde7fa17e77987c4feac73f8",
+    "sha256": "8303785650ee721b2d414fa7d24e95a0569a177b1d8d868f01618d08ef6256b3",
+    "searchQuery": "fuel pump gas station",
+    "searchUrl": "https://yandex.com/images/search?text=fuel%20pump%20gas%20station",
+    "sourcePageUrl": "https://au.pinterest.com/ideas/gas-station-fuel-pump/903097496409/",
+    "downloadedUrl": "https://i.pinimg.com/474x/be/20/0d/be200de56a265e3d522f0c13852ff2ae.jpg?nii=t",
+    "visualReview": {
+      "rank": 1568,
+      "cardId": "w2839",
+      "word": "fuel",
+      "senseFingerprint": "a9a32b2dde0952bba589e7cd25b4e502e8838492fde7fa17e77987c4feac73f8",
+      "sha256": "8303785650ee721b2d414fa7d24e95a0569a177b1d8d868f01618d08ef6256b3",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "dfc851218b02d3d6c5fa5ae8956c617721192bd80199692a371cb4357e2f58f6",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/8303785650ee721b2d414fa7d24e95a0569a177b1d8d868f01618d08ef6256b3.jpg",
+    "gitBlobSha1": "6917cb0296105c0861aebefeed958b80e23733ab"
   },
   {
     "cardId": "w303",
@@ -20440,6 +21061,34 @@
     "gitBlobSha1": "fe14a45bd6a0e2b77ffffdfb1c3c6ebf55abf3a4"
   },
   {
+    "cardId": "w840",
+    "word": "hundred",
+    "meaning": "сто",
+    "senseFingerprint": "2dfd39065c02fff5d6717afab5105827baa78b1de0bb7ac0f5d3a81204bbcf41",
+    "sha256": "c4c6dc96401e3e115b9349097f8249a64766f65bf7d289b998236cc46176b657",
+    "searchQuery": "hundred number 100",
+    "searchUrl": "https://yandex.com/images/search?text=hundred%20number%20100",
+    "sourcePageUrl": "https://www.vecteezy.com/png/8490545-number-one-hundred-100-red-number",
+    "downloadedUrl": "https://static.vecteezy.com/system/resources/previews/008/490/545/non_2x/number-one-hundred-100-red-number-png.png",
+    "visualReview": {
+      "rank": 1572,
+      "cardId": "w840",
+      "word": "hundred",
+      "senseFingerprint": "2dfd39065c02fff5d6717afab5105827baa78b1de0bb7ac0f5d3a81204bbcf41",
+      "sha256": "c4c6dc96401e3e115b9349097f8249a64766f65bf7d289b998236cc46176b657",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "cedf4fb97ca4aa289db5f6cf64639a95df06ac2d1a4f9fe83d141da9c2ed953b",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/c4c6dc96401e3e115b9349097f8249a64766f65bf7d289b998236cc46176b657.jpg",
+    "gitBlobSha1": "28936ad33c6641dafba6a16df9cba61d597fded3"
+  },
+  {
     "cardId": "w2058",
     "word": "compete",
     "meaning": "конкурировать",
@@ -20466,6 +21115,34 @@
     },
     "remotePath": "reviewed/v1/d9d8f9f28b00b675b56d8a56e59fa6c47637c35f5ef50f5e1ca8d017149a7222.jpg",
     "gitBlobSha1": "6c3ab07b13221f15f8ebfae8bd9de1a694b29f1a"
+  },
+  {
+    "cardId": "w1755",
+    "word": "calling",
+    "meaning": "призвание",
+    "senseFingerprint": "b2b5841b7fa6c887b7cfece4d76f67f97c18b9ba63b8ff8175a20c565684a79b",
+    "sha256": "63e8b9b6878cfc408fc84995f648674c95222da0af1df5cd37406c29f672deb0",
+    "searchQuery": "phone call woman talking",
+    "searchUrl": "https://yandex.com/images/search?text=phone%20call%20woman%20talking",
+    "sourcePageUrl": "https://www.youtube.com/watch?app=desktop&v=ylB0bfHbSoE",
+    "downloadedUrl": "https://i.ytimg.com/vi/ylB0bfHbSoE/maxresdefault.jpg",
+    "visualReview": {
+      "rank": 1581,
+      "cardId": "w1755",
+      "word": "calling",
+      "senseFingerprint": "b2b5841b7fa6c887b7cfece4d76f67f97c18b9ba63b8ff8175a20c565684a79b",
+      "sha256": "63e8b9b6878cfc408fc84995f648674c95222da0af1df5cd37406c29f672deb0",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "452a02fd9f95cfba19ae3e8a39a4148750f3e86e12379056d1c90c5848000556",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/63e8b9b6878cfc408fc84995f648674c95222da0af1df5cd37406c29f672deb0.jpg",
+    "gitBlobSha1": "fd629ba6ef26cabb2b002f7ae46e2f0496a98ee6"
   },
   {
     "cardId": "w2885",
@@ -20522,6 +21199,34 @@
     },
     "remotePath": "reviewed/v1/5e924c24de322130672189fa063d99c4092463efe3260467a2d3b9568f4479e9.jpg",
     "gitBlobSha1": "92376e4a60b05fb1c58cf8d1047bad15465d7232"
+  },
+  {
+    "cardId": "w265",
+    "word": "chapter",
+    "meaning": "глава",
+    "senseFingerprint": "999afb68da1d8adb99aa398478dab2b1dd6e0b2d2617978dc3cfca15d69abd6a",
+    "sha256": "2340b4057ed04c5c2f997fe0a725d45a25afa6ecc2f1102a22f136de656e02be",
+    "searchQuery": "chapter book open",
+    "searchUrl": "https://yandex.com/images/search?text=chapter%20book%20open",
+    "sourcePageUrl": "https://www.abebooks.com/9780393326147/Open-Book-Coming-Age-Heartland-0393326144/plp",
+    "downloadedUrl": "https://pictures.abebooks.com/isbn/9780393326147-us.jpg",
+    "visualReview": {
+      "rank": 1587,
+      "cardId": "w265",
+      "word": "chapter",
+      "senseFingerprint": "999afb68da1d8adb99aa398478dab2b1dd6e0b2d2617978dc3cfca15d69abd6a",
+      "sha256": "2340b4057ed04c5c2f997fe0a725d45a25afa6ecc2f1102a22f136de656e02be",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "e1de7aac5b957155f5c6540e34e8469dec782c7f76ec23a8be9e403fd9038ee8",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/2340b4057ed04c5c2f997fe0a725d45a25afa6ecc2f1102a22f136de656e02be.jpg",
+    "gitBlobSha1": "2ed6c00b2b11baea4dc08ba369be57a1b6a67d89"
   },
   {
     "cardId": "w4522",
@@ -20608,6 +21313,34 @@
     "gitBlobSha1": "969d259da0578bdb19b3a2378bc4e9bf1264fcc6"
   },
   {
+    "cardId": "w249",
+    "word": "really",
+    "meaning": "действительно",
+    "senseFingerprint": "c302b27a9f71232baba90b67880c891f13fceb4be2900df294adcbb9a131612a",
+    "sha256": "d2057280e0504028e4557df815d06dde73f5ac0b9b34503ae670a0608f7c274c",
+    "searchQuery": "really surprised face",
+    "searchUrl": "https://yandex.com/images/search?text=really%20surprised%20face",
+    "sourcePageUrl": "https://www.vecteezy.com/free-png/surprised-face?page=2",
+    "downloadedUrl": "https://static.vecteezy.com/system/resources/previews/060/422/844/non_2x/fearful-man-with-wide-open-eyes-and-mouth-expressing-terror-and-surprise-holding-his-face-in-disbelief-and-panic-free-png.png",
+    "visualReview": {
+      "rank": 1591,
+      "cardId": "w249",
+      "word": "really",
+      "senseFingerprint": "c302b27a9f71232baba90b67880c891f13fceb4be2900df294adcbb9a131612a",
+      "sha256": "d2057280e0504028e4557df815d06dde73f5ac0b9b34503ae670a0608f7c274c",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "c6d20cfb3c45db68649fbb1f986c66669784bae379bf3d1ba436cb6393cd395d",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/d2057280e0504028e4557df815d06dde73f5ac0b9b34503ae670a0608f7c274c.jpg",
+    "gitBlobSha1": "268d631897a8a20628e6fd8dc93c82d33976b9d2"
+  },
+  {
     "cardId": "w4817",
     "word": "establish",
     "meaning": "установить",
@@ -20662,6 +21395,34 @@
     },
     "remotePath": "reviewed/v1/90f012de02f7fdd6dcb652e1c12723ea153314f91efd09f8531391fc40167b32.jpg",
     "gitBlobSha1": "4109ec8dd7fc92303f293560b6243bfb6cd64063"
+  },
+  {
+    "cardId": "w4499",
+    "word": "session",
+    "meaning": "сессия",
+    "senseFingerprint": "3491db6e9e141cc216ea327340fd4f45777e0df6e3ce84077717849d20399042",
+    "sha256": "f6e821f679ecabdbdeda4b291bfc42b6ba0cb79f67297222f067fda26a023fc7",
+    "searchQuery": "session meeting people",
+    "searchUrl": "https://yandex.com/images/search?text=session%20meeting%20people",
+    "sourcePageUrl": "https://ru.pinterest.com/pin/discover-the-4-essential-workplace-characteristics--187954984427644068/",
+    "downloadedUrl": "https://i.pinimg.com/originals/4f/94/9a/4f949a0efc546e016e265696a0317a87.jpg",
+    "visualReview": {
+      "rank": 1594,
+      "cardId": "w4499",
+      "word": "session",
+      "senseFingerprint": "3491db6e9e141cc216ea327340fd4f45777e0df6e3ce84077717849d20399042",
+      "sha256": "f6e821f679ecabdbdeda4b291bfc42b6ba0cb79f67297222f067fda26a023fc7",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "ac4ec1c05c75e4e8a8826f5843d8de4508154544af20f79cd9b1c4883a657991",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
+    },
+    "remotePath": "reviewed/v1/f6e821f679ecabdbdeda4b291bfc42b6ba0cb79f67297222f067fda26a023fc7.jpg",
+    "gitBlobSha1": "b048f7bd4f84795b3685bbebd72751c22477dea9"
   },
   {
     "cardId": "w1383",
@@ -20916,6 +21677,21 @@
     "gitBlobSha1": "55ace081f40f777d57792b59f6dedb1df9599b84"
   },
   {
+    "cardId": "w3003",
+    "word": "Greece",
+    "meaning": "Греция",
+    "senseFingerprint": "a0501fda72fa5916a2249c514083c994cf97d3664da40b6b1376447290922170",
+    "sha256": "04f1aebe77dc1a51dacc85d782a25f469ddf5dfa542ee70f5d44138bf48815ce",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/greece.jpg",
+    "visualReview": {
+      "cardId": "w3003",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w2874",
     "word": "equal",
     "meaning": "равный; равняться",
@@ -20998,6 +21774,21 @@
     },
     "remotePath": "reviewed/v1/bd212cb5b339e210f697d686ffce48e77c1320654a50ba7b028b8c257ba71a9c.jpg",
     "gitBlobSha1": "1fabf235404cc60250014950e5fd752651eda76e"
+  },
+  {
+    "cardId": "w1723",
+    "word": "IV",
+    "meaning": "внутривенный; капельница",
+    "senseFingerprint": "1e4262ef3edc4ba99fd991d0eb0617c93d53ce9a747cecf282e51dbcdec3312c",
+    "sha256": "f9920e1e4d5eff755d9e7f229e67d6d96a3f5dbdfbc6c2f225ecd2a0f83aab83",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/iv.jpg",
+    "visualReview": {
+      "cardId": "w1723",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4369",
@@ -21418,6 +22209,21 @@
     },
     "remotePath": "reviewed/v1/54f54a0c1783752b2ea77254d25a1e791ce1f04e95f927ded331986ad32b4b1e.jpg",
     "gitBlobSha1": "19a9a0cd31cb2ecbe1c3a518d0217c4764fa8a16"
+  },
+  {
+    "cardId": "w2978",
+    "word": "Jean",
+    "meaning": "Джин",
+    "senseFingerprint": "f13590dd080f7053f8caa51456de3a1ea20ab355030e2c639847f66cfe1b41af",
+    "sha256": "9af6e7b7f32867d650584b0db823d1f8459341e1e32e48414257da45cd0be3d1",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/jean.jpg",
+    "visualReview": {
+      "cardId": "w2978",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2999",
@@ -22092,6 +22898,21 @@
     "gitBlobSha1": "313abd24902d5fb39d567e119b7b7108b2080c49"
   },
   {
+    "cardId": "w12362",
+    "word": "Alabama",
+    "meaning": "Алабама",
+    "senseFingerprint": "c96ad6c9b24e81bd730ac09d23f5d9244e285e6f6296526152ec56af7c353a48",
+    "sha256": "b4ca08531b8ced159910751be4ccdb11454c38e8f9d47fec57f3096bc0652d87",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/alabama.jpg",
+    "visualReview": {
+      "cardId": "w12362",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w2806",
     "word": "path",
     "meaning": "путь",
@@ -22344,6 +23165,21 @@
     "gitBlobSha1": "6801cc3634a6f831495d243f4c8a40aebbdc696d"
   },
   {
+    "cardId": "w2969",
+    "word": "Anderson",
+    "meaning": "Андерсон",
+    "senseFingerprint": "b43530334affa1ac639a91114738e36e27bd823ffe106bd83120f3452b95d122",
+    "sha256": "ac37f626b22b69571d4e79080f63f53f557aa71792c5b69a30786d6e56de15da",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/anderson.jpg",
+    "visualReview": {
+      "cardId": "w2969",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w2835",
     "word": "nor",
     "meaning": "ни",
@@ -22426,6 +23262,21 @@
     },
     "remotePath": "reviewed/v1/548615d4787fd09f32b85e0c48aa459b98ec04295a302d9e5c0252fae4952532.jpg",
     "gitBlobSha1": "37c9c34806ebf3711d842fc4b5db1fda445130f6"
+  },
+  {
+    "cardId": "w1705",
+    "word": "Jesus",
+    "meaning": "Иисус",
+    "senseFingerprint": "3959653381b522bc127a84caed279bd95caa25653e86579179e5f22578f4bc0a",
+    "sha256": "60ed64e65a22cc9485330167209c4480f18c8b5bc36cf3bce001625a9c51ea9d",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/jesus.jpg",
+    "visualReview": {
+      "cardId": "w1705",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w3287",
@@ -22566,6 +23417,21 @@
     },
     "remotePath": "reviewed/v1/6836dc5c4b4de6d41826a99123a5ff90f2d73dc31c4f3e28acec843fd2821610.jpg",
     "gitBlobSha1": "be73bf8e54234a71276f5e42fcdbd2ec01fa262f"
+  },
+  {
+    "cardId": "w7302",
+    "word": "CEO",
+    "meaning": "генеральный директор",
+    "senseFingerprint": "3b45cfa19436643ac03a0a151798c0873f87319a178d405ec422bdfb29e61a95",
+    "sha256": "416f9ee53f8a46691feacfc209b28b88bb81a75228512e544457848a97a58ada",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/ceo.jpg",
+    "visualReview": {
+      "cardId": "w7302",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w516",
@@ -23184,6 +24050,21 @@
     "gitBlobSha1": "fc326b3d2826b1c92b3312bf804f46ba8d92e694"
   },
   {
+    "cardId": "w8082",
+    "word": "Austrian",
+    "meaning": "австрийский",
+    "senseFingerprint": "f65a57162c87e3fb9ff20981d649466ec9bcff403acc7402a77931c458dea940",
+    "sha256": "854066677fe61a51d6a5790043b99a8123356e094eae90a042c8f840be9088d7",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/austrian.jpg",
+    "visualReview": {
+      "cardId": "w8082",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w4981",
     "word": "parallel",
     "meaning": "параллельный",
@@ -23632,6 +24513,21 @@
     "gitBlobSha1": "b7770dd16f4f887ab7f6e77e2e5f4056247808f4"
   },
   {
+    "cardId": "w906",
+    "word": "Mrs",
+    "meaning": "миссис",
+    "senseFingerprint": "6b7d60374649b4080221258d6943043003d834d324a52860cc5bc4e3539f7b54",
+    "sha256": "0e526161ecbf662362ed5b6822e1aa033b800a9d9e97d05eca52e982ac8b92b2",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/mrs.jpg",
+    "visualReview": {
+      "cardId": "w906",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w7236",
     "word": "representation",
     "meaning": "представление",
@@ -23744,6 +24640,21 @@
     "gitBlobSha1": "94b23f3d07439c8dd3e05de83b353a17ac8470b3"
   },
   {
+    "cardId": "w5520",
+    "word": "Hungarian",
+    "meaning": "венгерский; венгр",
+    "senseFingerprint": "6574a0acd7efe1b8052b6b8b62583129367b023471a96d9f005af0a0de367b9e",
+    "sha256": "a66f6d4a5573c79bf517b8c6d5e02750fb1a16fb1969c5c4015420364c9a23a7",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/hungarian.jpg",
+    "visualReview": {
+      "cardId": "w5520",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w2803",
     "word": "frame",
     "meaning": "рамка",
@@ -23826,6 +24737,21 @@
     },
     "remotePath": "reviewed/v1/436856098c52a056a969ab52c24d016e566fc7b57449605b47cdc6ca22ac2d0c.jpg",
     "gitBlobSha1": "f5a691bf3f6ee6d56bb666c998c2418b4b30e0b3"
+  },
+  {
+    "cardId": "w12363",
+    "word": "DNA",
+    "meaning": "ДНК (дезоксирибонуклеиновая кислота)",
+    "senseFingerprint": "bc93e26ce0d2091d61cf54f0a135228801b6664f4efd0f6a256d08855e24265d",
+    "sha256": "63741c03c5e24da1f08198b1edc01a8a60d6ab22df5285ef8e5d40b8cb41cd18",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/dna.jpg",
+    "visualReview": {
+      "cardId": "w12363",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2931",
@@ -24134,6 +25060,21 @@
     },
     "remotePath": "reviewed/v1/610c55909516b5bc57d7e19466699a21cbcf1a2fc98bdd882aaedfe15fc024d1.jpg",
     "gitBlobSha1": "2dff36d83ab8d8f75f93312276239e7179b4e40a"
+  },
+  {
+    "cardId": "w8035",
+    "word": "Nazi",
+    "meaning": "нацист",
+    "senseFingerprint": "7bcc893ae4b61df8f1f7e5aaeae0d53f0cab116d95c9567c9487e72bbb57b8fa",
+    "sha256": "8e1652d2a220b93afc519b99c4ac1f532710ef342ffeda3fec5ae5b6e048bce7",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/nazi.jpg",
+    "visualReview": {
+      "cardId": "w8035",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w846",
@@ -26068,6 +27009,21 @@
     "gitBlobSha1": "9dd9a3b32dfdb008b600a49ace5d97d8aa79cfe0"
   },
   {
+    "cardId": "w3399",
+    "word": "Mediterranean",
+    "meaning": "средиземноморский",
+    "senseFingerprint": "da86970ef3b8f7ebe6db83aaccfab754313774b4013a64d2589e63e42c0bfed5",
+    "sha256": "a10e0da270e8cbc8a6572d002d75d6d2ef67e4e0991d5418e2e2a10289041ea3",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/mediterranean.jpg",
+    "visualReview": {
+      "cardId": "w3399",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w7636",
     "word": "civilian",
     "meaning": "гражданское лицо",
@@ -26124,6 +27080,21 @@
     "gitBlobSha1": "ef3180defa3e17821a1ee54fdf9be9a25291e4f0"
   },
   {
+    "cardId": "w3400",
+    "word": "Egyptian",
+    "meaning": "египетский",
+    "senseFingerprint": "baed1ee0c29584cdbc12ddf0342ec29ea10e0ac2230115e0e00ab26ea040a3f6",
+    "sha256": "4134b5af72711763263e09fcb511d363cec74e9e21c3a65949164b1e77bb043e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/egyptian.jpg",
+    "visualReview": {
+      "cardId": "w3400",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w5327",
     "word": "significance",
     "meaning": "значимость",
@@ -26150,6 +27121,21 @@
     },
     "remotePath": "reviewed/v1/44a47b756fa1969bed3680df6518aa2a4be09109015189802f7fedc53df6c5c6.jpg",
     "gitBlobSha1": "5d305d368de7470e84600ff80590809174b3fcc9"
+  },
+  {
+    "cardId": "w7623",
+    "word": "Finnish",
+    "meaning": "финский",
+    "senseFingerprint": "58099f411103da9e870e4cee4ea6bf15227dd5b0172e1d073b0a5e60e8469a55",
+    "sha256": "03b8bcd62b8c8ebd81ae9aec58f4bcb0320f71c19ca764361321c585987cfca5",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/finnish.jpg",
+    "visualReview": {
+      "cardId": "w7623",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w579",
@@ -26598,6 +27584,21 @@
     },
     "remotePath": "reviewed/v1/94ef0bd65be173074e53a8a39d1bbce72b40eef825bd33433ea774ab46118ad7.jpg",
     "gitBlobSha1": "7faab09ae6e78da486beeef2681d8a089ea5efe5"
+  },
+  {
+    "cardId": "w1617",
+    "word": "Bible",
+    "meaning": "Библия",
+    "senseFingerprint": "3d75ba98503ee1f4f07ad7b93721ed1b4a1e989ba94ca10336c6841270042e88",
+    "sha256": "67a43a0a85360d540ed04f6313e983f26c83f281f5d0ea551eb444b382a2c75f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/bible.jpg",
+    "visualReview": {
+      "cardId": "w1617",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2889",
@@ -27158,6 +28159,21 @@
     },
     "remotePath": "reviewed/v1/4e6124da4dd3b3c41577453965054a616e100527dcb42f3184d82f1fde585139.jpg",
     "gitBlobSha1": "b21ce7b225f68069328695327efc979df312bd4e"
+  },
+  {
+    "cardId": "w4888",
+    "word": "pH",
+    "meaning": "водородный показатель",
+    "senseFingerprint": "ddd98b69358a06d4907382aebb2979a6a6d5089f949bb1eb17a914745116d56d",
+    "sha256": "d35114f42084555c6d85e0e26053f6413c6e77f1ff29bdce86a3c183e79793aa",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/ph.jpg",
+    "visualReview": {
+      "cardId": "w4888",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4921",
@@ -28110,6 +29126,21 @@
     },
     "remotePath": "reviewed/v1/bf9d99d7c7ab7356877da66140bf61af7570aa3ad4dfb1419f1de6d2b9fb734c.jpg",
     "gitBlobSha1": "81ea4e61edfa940aa8334ff8806c3b399adde980"
+  },
+  {
+    "cardId": "w530",
+    "word": "Friday",
+    "meaning": "пятница",
+    "senseFingerprint": "1d734116e47249d5011a5995d605e8588271cca2af72765e26192d7f6530af3c",
+    "sha256": "72f4bf0a574a49a557bc14edbcf99b71f8364ee97480b532bc6ccd5ff497615d",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/friday.jpg",
+    "visualReview": {
+      "cardId": "w530",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4545",
@@ -30772,6 +31803,21 @@
     "gitBlobSha1": "f8147241775c4f2087660866d586bd0c02db43f8"
   },
   {
+    "cardId": "w3305",
+    "word": "Christianity",
+    "meaning": "христианство",
+    "senseFingerprint": "ab3b258ad83f6ad03b0e6ee602e2d5c057bad3909c544d844bac907cdf83795a",
+    "sha256": "0fc5e6f5dfbc4731e3a9242918c6b0e285c25f6eea1d71eb4f45430a67156be2",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/christianity.jpg",
+    "visualReview": {
+      "cardId": "w3305",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w2869",
     "word": "comparison",
     "meaning": "сравнение",
@@ -31806,6 +32852,21 @@
     },
     "remotePath": "reviewed/v1/c586714eaf2163b071547fb6f9202e541e3d694b1b1a580b62aa0b298b6e59ae.jpg",
     "gitBlobSha1": "af268878bafb1b0feb88a1e9ce17c9512aff2a1c"
+  },
+  {
+    "cardId": "w2876",
+    "word": "DJ",
+    "meaning": "диджей",
+    "senseFingerprint": "80b4db215245a1ccbb5ded65543d785af4f47e89b17c67073f49bbf2a97737df",
+    "sha256": "ac519cc7a7ce7c2dcf61ecfc36c0266200338b299909118f2dc9a4279c08b558",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/dj.jpg",
+    "visualReview": {
+      "cardId": "w2876",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4746",
@@ -32844,6 +33905,21 @@
     "gitBlobSha1": "5cafd69bc663a9b07b3b3ad2f1882cd2ef8ffdf4"
   },
   {
+    "cardId": "w3301",
+    "word": "Christians",
+    "meaning": "христиане",
+    "senseFingerprint": "beb9d935b96f43bff2e159b5a77e97858a386b90d90ed6d8416364f93add0efe",
+    "sha256": "56fbe0a09bdeb2fbd86ffe9b41aceb673f8da5587e50b8740b4cf4fe64e92d3b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/christians.jpg",
+    "visualReview": {
+      "cardId": "w3301",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w5409",
     "word": "fellowship",
     "meaning": "товарищество; исследовательская стипендия",
@@ -33374,6 +34450,21 @@
     },
     "remotePath": "reviewed/v1/48fc2106596dcffec59a627ca7a692cf90a715554ebebc44a35b3660d8f68d58.jpg",
     "gitBlobSha1": "7107005edadfe376f2025f621afe901e7ed5aecf"
+  },
+  {
+    "cardId": "w5660",
+    "word": "Yale",
+    "meaning": "Йельский университет",
+    "senseFingerprint": "757940e42a6411f9b355f380f2543304d3b65f3ffb7fd408c21c89452f9c8997",
+    "sha256": "98799a8a4496e232224c53cfb57da5b69384a605c9c691b8119a0607124e910f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/yale.jpg",
+    "visualReview": {
+      "cardId": "w5660",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2127",
@@ -35196,6 +36287,21 @@
     "gitBlobSha1": "eb4e760682e295e65490c6b2fcf250b18e0d591c"
   },
   {
+    "cardId": "w3180",
+    "word": "Gospel",
+    "meaning": "Евангелие",
+    "senseFingerprint": "268cc70bcad9134ba3e388585d4d3780d930e246d9a6546ca22127e135c2c4e9",
+    "sha256": "24770ad152381825131b3fc02c4be9d1a8ba047bb40d0dc78155ff9610752665",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/gospel.jpg",
+    "visualReview": {
+      "cardId": "w3180",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w5157",
     "word": "portions",
     "meaning": "порции",
@@ -36426,6 +37532,21 @@
     },
     "remotePath": "reviewed/v1/22cd7f67e928b5084db7dc948fce43d2a3991b9683f643bc251fe1123015b445.jpg",
     "gitBlobSha1": "aafe9956983ecb71c51bac1304f6a4ec34a78842"
+  },
+  {
+    "cardId": "w4669",
+    "word": "AIDS",
+    "meaning": "СПИД",
+    "senseFingerprint": "492b8d55d1e14dc0d6b75cb3391db94f19fe77f6ec3e59c7b1ca241a376e43a2",
+    "sha256": "389d123288d6a28f5ebaf53bee4c306c0a7914f0380ba1d4dfa434ac9845e915",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/aids.jpg",
+    "visualReview": {
+      "cardId": "w4669",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w7452",
@@ -38246,6 +39367,21 @@
     },
     "remotePath": "reviewed/v1/703ba318a7e6ceb7ceeb5f038288256ffc1f27d1eef5a535f4b372b7c96c5a10.jpg",
     "gitBlobSha1": "6d1eb1f93b13835339d32dab9a913f1c6d69fff2"
+  },
+  {
+    "cardId": "w1361",
+    "word": "PC",
+    "meaning": "персональный компьютер",
+    "senseFingerprint": "9e4294297104eb2ea063e84bbec10b1990ea30485fb9631ed5da30faaa1d95a4",
+    "sha256": "410704d33793f002e5b63388acca6643680c75f648421ef6d6a75e8763ae07d4",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/pc.jpg",
+    "visualReview": {
+      "cardId": "w1361",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w5432",
@@ -43092,6 +44228,21 @@
     "gitBlobSha1": "74c4badef4738ceefc0de2cae9be6e4d9196cc2f"
   },
   {
+    "cardId": "w5444",
+    "word": "Martha",
+    "meaning": "Марта",
+    "senseFingerprint": "bf4e6b4dfff125b9ec385abb38591a539dd63fbbacbd7e1b777d0fed1633a145",
+    "sha256": "83d6dd7815dbb86e3f1cb780d3b7fe6c30dc2564926e440c3ebf4ea6caadb6ea",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/martha.jpg",
+    "visualReview": {
+      "cardId": "w5444",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w4554",
     "word": "suite",
     "meaning": "номер люкс",
@@ -43398,6 +44549,21 @@
     },
     "remotePath": "reviewed/v1/7f4b3c9665d103cd410f9f50626d1f3305503f5a88b7a205d86e9be53e46f9e8.jpg",
     "gitBlobSha1": "6c478c58ca08c0c50184b27625623c7818294dd1"
+  },
+  {
+    "cardId": "w9202",
+    "word": "Antarctic",
+    "meaning": "антарктический",
+    "senseFingerprint": "51bcb5fc558c0d44a48f340c9213f5c4bb75548729ef021eede0105b1df20b3d",
+    "sha256": "3ca8679f3bf225abc44cbcc89c9d8cc6fa3a41f4316b59e8a27b680778446e89",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/antarctic.jpg",
+    "visualReview": {
+      "cardId": "w9202",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w12762",
@@ -43846,6 +45012,21 @@
     },
     "remotePath": "reviewed/v1/fc63d9a15dbc1acd6264e4d9e1ac1dea8aa770920fe8833a83bd35593059f506.jpg",
     "gitBlobSha1": "c5a6190241581ac36b0158076cea430ac0be0b75"
+  },
+  {
+    "cardId": "w2077",
+    "word": "Easter",
+    "meaning": "Пасха",
+    "senseFingerprint": "76f2c25300c8820b54ace78e029408462be87cdf7939501954a62fd6f68ecd02",
+    "sha256": "b8c47a2809c146829f2ee3a7d908f05871ffbd9f79f137c79adeed739634a660",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/easter.jpg",
+    "visualReview": {
+      "cardId": "w2077",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w12760",
@@ -44630,6 +45811,21 @@
     },
     "remotePath": "reviewed/v1/867cc961b8a8cadc9f757534ca3499d392bfa8557bc47eccef3d7b7e67bce385.jpg",
     "gitBlobSha1": "211636cce2382b4baaf6e17b49c3618e89b5af83"
+  },
+  {
+    "cardId": "w7563",
+    "word": "Troy",
+    "meaning": "Троя",
+    "senseFingerprint": "d87801fb233a35fdf8bfabb9e8ffd5e073c082079de005f5cab9eb8cb1821a0e",
+    "sha256": "d3ac25571ffcd82ae122befb8ad5666c4079bd299b871324c9d5e7b6b51e5df8",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/troy.jpg",
+    "visualReview": {
+      "cardId": "w7563",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2256",
@@ -46648,6 +47844,21 @@
     "gitBlobSha1": "849ce471731ea3642a4be805f48671a8c7754bf1"
   },
   {
+    "cardId": "w8825",
+    "word": "Slovak",
+    "meaning": "словак; словацкий",
+    "senseFingerprint": "b2b9cfe523f6b661d6a8dcfff4c0f4773b4c7b43628e4072492502f92f0ab9c2",
+    "sha256": "42ef4ba560520b2f3e3ade36596263a3b7c7950b1580418c0862871f3a1ff93a",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/slovak.jpg",
+    "visualReview": {
+      "cardId": "w8825",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w7480",
     "word": "constitute",
     "meaning": "составлять",
@@ -47964,6 +49175,21 @@
     "gitBlobSha1": "355f98e8cc413d7c6897e6598f96319ab09c5729"
   },
   {
+    "cardId": "w2690",
+    "word": "Linux",
+    "meaning": "Линукс (операционная система)",
+    "senseFingerprint": "620676fa81ab059e40fb3243cd9942a37726c775e5b85847cd44321916de2e1b",
+    "sha256": "fa93abe00c4df12fb1b3c39f3f14317e7db65d9553140d98c69125f7fd876b8f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/linux.jpg",
+    "visualReview": {
+      "cardId": "w2690",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w3292",
     "word": "frozen",
     "meaning": "замороженный",
@@ -48522,6 +49748,21 @@
     },
     "remotePath": "reviewed/v1/f4b8a447f31f7fc4b2db587f51f2107dd9512d71af519ba040758a93133d5e65.jpg",
     "gitBlobSha1": "21b9cdcf9cd2ef7890f99ef340e128b0d6ae2423"
+  },
+  {
+    "cardId": "w7721",
+    "word": "Sally",
+    "meaning": "Салли",
+    "senseFingerprint": "5e9762fd025ce575cf2b2bef302cb0172b9dfa6250f7880f4012255b92b05a92",
+    "sha256": "857c3b9788f49356c941a58e275c504cf6e5256065c5adc0ce0423c0c545813b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/sally.jpg",
+    "visualReview": {
+      "cardId": "w7721",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w8318",
@@ -50034,6 +51275,21 @@
     },
     "remotePath": "reviewed/v1/611f69c74dc73a688aaed04f3e7d83e1e1a9f19f99b337decd0c88a1f7655f68.jpg",
     "gitBlobSha1": "c7ea15274bfce7068b137e6d5310b4716c06ffff"
+  },
+  {
+    "cardId": "w3969",
+    "word": "Arabian",
+    "meaning": "арабский",
+    "senseFingerprint": "ad4880baf6470fa2c84e7e33063345fdd3e9d7602bb762e270267da46c3e23ab",
+    "sha256": "d4a343ee24107a6c58c60d04242b74afd1d2d69d8518d31b0f54f632e1ebfe41",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/arabian.jpg",
+    "visualReview": {
+      "cardId": "w3969",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w3675",
@@ -54152,6 +55408,21 @@
     "gitBlobSha1": "6bd74bda79022040f377dc9afab9f4dd562b455f"
   },
   {
+    "cardId": "w11920",
+    "word": "Spider-Man",
+    "meaning": "Человек-паук",
+    "senseFingerprint": "64e0ab62ee3ab8923978206502cac14199c3c6d27748e5172c5abde0b366fe1e",
+    "sha256": "3210676aa395bdf6b7b26388665a13ad623feb5831b67ae7236742a31129d115",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/spider-man.jpg",
+    "visualReview": {
+      "cardId": "w11920",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w5965",
     "word": "slender",
     "meaning": "стройный",
@@ -58016,6 +59287,21 @@
     "gitBlobSha1": "21c680b3b51d87d2ce83709a49dbb23698270407"
   },
   {
+    "cardId": "w8344",
+    "word": "Noah",
+    "meaning": "Ной",
+    "senseFingerprint": "78707a429ec5add92181f6bb2de696097e4503c464438131611fb5ad52c181db",
+    "sha256": "219a524969b63d08b45d2c4bdb0826a0990699daf27b036b114f4825479c09ab",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/noah.jpg",
+    "visualReview": {
+      "cardId": "w8344",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w5023",
     "word": "attachment",
     "meaning": "привязанность; вложение",
@@ -58406,6 +59692,21 @@
     },
     "remotePath": "reviewed/v1/ca0927e24be8767464988479d3b4cecb307f4f41bae1c88a09d311f6687753b7.jpg",
     "gitBlobSha1": "161cab6133f1c3edf10979e5b8f4d04b91f82ee9"
+  },
+  {
+    "cardId": "w5929",
+    "word": "XII",
+    "meaning": "двенадцать; двенадцатый",
+    "senseFingerprint": "d7b65c88be3e6a5491e9c3f1957d93e7cd400d542123b8fe4af68991578ac7dc",
+    "sha256": "8d9feba9ee1bf539f26c6418ccd743143608db6ec959fe43b81bd7d69376451b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/xii.jpg",
+    "visualReview": {
+      "cardId": "w5929",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w7375",
@@ -63028,6 +64329,21 @@
     "gitBlobSha1": "9d460fc116eeb606d245413f25aba38707554c60"
   },
   {
+    "cardId": "w9841",
+    "word": "Luna",
+    "meaning": "Луна",
+    "senseFingerprint": "b424a321b2a85e57a0950823fc16966a7335ef6ce9bf56ee51138a12a137a8e1",
+    "sha256": "40751fde154dedfc78c48cdc757e4e48f1345b26056347165feb61e9932ea4a1",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/luna.jpg",
+    "visualReview": {
+      "cardId": "w9841",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w8987",
     "word": "perimeter",
     "meaning": "периметр",
@@ -64540,6 +65856,36 @@
     "gitBlobSha1": "b14e5adc713fb9f2c88ed8f29429543aba8d771e"
   },
   {
+    "cardId": "w8690",
+    "word": "Apache",
+    "meaning": "апач; апачский",
+    "senseFingerprint": "00400616c8f4ad1d354902a2ca48310866c4d6668e6ddfb290bb0373616d7233",
+    "sha256": "f7d275d842c65eed5ee06bd13acee20683ff8d6e574ed5a2e18934447c9e1a64",
+    "pinnedUrl": "https://raw.githubusercontent.com/romanov4work/english-word-images/main/apache.jpg",
+    "visualReview": {
+      "cardId": "w8690",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w8774",
+    "word": "Sandra",
+    "meaning": "Сандра",
+    "senseFingerprint": "7395762585e4f3f5ee6b3e79d7a151f9c3bdec0a66e142e1f1a6d9bb9d2a810e",
+    "sha256": "89143d5c6071079628a8eb29cc0f4404c546a2438665902c0445229e5ef30d62",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/sandra.jpg",
+    "visualReview": {
+      "cardId": "w8774",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w12877",
     "word": "weekday",
     "meaning": "будний день",
@@ -64566,6 +65912,21 @@
     },
     "remotePath": "reviewed/v1/68556c9fcee8ed6a92a9d9df491d93508c27888d7cc02dba5735b26d9b9bcb04.jpg",
     "gitBlobSha1": "49da1ba1761524a918d030200d5c638226c93680"
+  },
+  {
+    "cardId": "w4734",
+    "word": "USD",
+    "meaning": "доллар США",
+    "senseFingerprint": "9a545532c93cadbe113de6001a58b894912dc0fc530ba24ff18215d9ebe9c1e5",
+    "sha256": "d209359cab491dfbd43aac9a3b73cc384341bf9f8a9d5571caed899468dfe36c",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/usd.jpg",
+    "visualReview": {
+      "cardId": "w4734",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w4841",
@@ -67142,6 +68503,21 @@
     },
     "remotePath": "reviewed/v1/49e0ea6cb54c2ed840f31389f3984a38481fe17eff58867ea9ea60f765441580.jpg",
     "gitBlobSha1": "1ea4587148902396e3e0c86372fbf7d45b2114ca"
+  },
+  {
+    "cardId": "w13215",
+    "word": "Romanesque",
+    "meaning": "романский стиль",
+    "senseFingerprint": "5d7b12361b0d04031a609127c162fc067cda29cde46233b2cb4750e9d769d22e",
+    "sha256": "63284f67f7cdd7b45827441399d1341cb213a8ebc594987c33dd320ba2ff0824",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/romanesque.jpg",
+    "visualReview": {
+      "cardId": "w13215",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w9275",
@@ -71400,6 +72776,21 @@
     "gitBlobSha1": "c72bac66e017c52c8b2c06c93234b71fede04974"
   },
   {
+    "cardId": "w8785",
+    "word": "Thanksgiving",
+    "meaning": "День благодарения",
+    "senseFingerprint": "2ebbc6ea295262fa6b7f92b59efa1e311d64ee098b57d370ce8ce05e0dfecc81",
+    "sha256": "c2ab79d92ff8d19622ee46e4e270c8927bb7acdf0e1e4b1b6b9a189f63ff082a",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/thanksgiving.jpg",
+    "visualReview": {
+      "cardId": "w8785",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w7886",
     "word": "induce",
     "meaning": "вызывать",
@@ -72098,6 +73489,21 @@
     },
     "remotePath": "reviewed/v1/133f793ffadc16435d6d82709828faad5556ca2069296b3ab8ed378a23d98803.jpg",
     "gitBlobSha1": "77fbae4b3416167c45cd01c6700ed97a971f3d1c"
+  },
+  {
+    "cardId": "w12174",
+    "word": "ISIL",
+    "meaning": "ИГИЛ",
+    "senseFingerprint": "114aa56af6aa4cbbdcb0ed105a77db553fcb692f1cde6b627e26970851342540",
+    "sha256": "3382828bdd7291f8c98a67cde49c5b11cc3edffa92d10c705a9495bc93189b59",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/isil.jpg",
+    "visualReview": {
+      "cardId": "w12174",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w1043",
@@ -74872,6 +76278,21 @@
     "gitBlobSha1": "9e337a224e3d883d9bc41b16a21e522001d81181"
   },
   {
+    "cardId": "w8276",
+    "word": "Einstein",
+    "meaning": "Эйнштейн",
+    "senseFingerprint": "604ff26bfdafa2e9ad2e2a5df0eec36b0d5d10b94448af7f26279eeb12157558",
+    "sha256": "524859f0d61d3afd8a7acc93fc3027f35995be14bb731760baf7bd6c50931560",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/einstein.jpg",
+    "visualReview": {
+      "cardId": "w8276",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w12288",
     "word": "Ankara",
     "meaning": "Анкара",
@@ -75486,6 +76907,21 @@
     },
     "remotePath": "reviewed/v1/590cd33857e2819d9a8a07d4c4238a69da48ed31a0cfa62d930c27a56220930f.jpg",
     "gitBlobSha1": "219d3f16d162dc07d2044cfb2f732c17be236f8f"
+  },
+  {
+    "cardId": "w4358",
+    "word": "iPhone",
+    "meaning": "айфон",
+    "senseFingerprint": "856dbac16e43c653eb2be4b0bdba73a120eea81a583c589338f32a03f8bda7f4",
+    "sha256": "081a7d8205890fdc6bdaae3a317e7fcac0edcfd2ff56b9e3c9a0d1d8cdde9c1e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/iphone.jpg",
+    "visualReview": {
+      "cardId": "w4358",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w7496",
@@ -76382,6 +77818,21 @@
     },
     "remotePath": "reviewed/v1/7be0f1929189853197d41164fc9100bf9b51922467024dbf1920bc3677744dcf.jpg",
     "gitBlobSha1": "135ab52785c7cd55f6b1426706570d0cdf7e9678"
+  },
+  {
+    "cardId": "w12321",
+    "word": "HTML",
+    "meaning": "язык разметки гипертекста (HTML)",
+    "senseFingerprint": "07f5a4511aa022a1fcea883b6b1dd67643f13603dbc6290421b447f2077e38a2",
+    "sha256": "1d576a21fc2b0b4a24ed8f54300fd7636e372c344d68c26bb279532a255ee922",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/html.jpg",
+    "visualReview": {
+      "cardId": "w12321",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w7650",
@@ -78876,6 +80327,21 @@
     "gitBlobSha1": "393cc5c5e235d329737c7a7b57ea9014a693edd6"
   },
   {
+    "cardId": "w1075",
+    "word": "Satan",
+    "meaning": "Сатана",
+    "senseFingerprint": "84100467d8ff7a7e672204bc444f3cbc95f923ee582363f3ff6f6e8849304ea3",
+    "sha256": "63da4bfdbde9125391a63c61571e5012dd20603bd664904db4d49688578fbfa6",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/satan.jpg",
+    "visualReview": {
+      "cardId": "w1075",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w2261",
     "word": "fore",
     "meaning": "передний",
@@ -78958,6 +80424,21 @@
     },
     "remotePath": "reviewed/v1/4f60487edb39c1929eba796ad5526900dfba1504d25f1a5ddab42e8448c11768.jpg",
     "gitBlobSha1": "44ea84774b955a845c71ad014658fbfa0a9904e7"
+  },
+  {
+    "cardId": "w10248",
+    "word": "Martian",
+    "meaning": "марсианин",
+    "senseFingerprint": "68c9b4ef27d598c40709e4129fce5cee102ea8da11e3d4bbd4a8c0e1985f8da7",
+    "sha256": "89abc8b9894e89d23cb1dce7d34e34cd89283f986224a8f1c1767787a5066b20",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/martian.jpg",
+    "visualReview": {
+      "cardId": "w10248",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w6013",
@@ -79098,6 +80579,21 @@
     },
     "remotePath": "reviewed/v1/990d6e504fbc77f15cb3e3dbcf048a4e3753051660798360f8967a0ae10623c7.jpg",
     "gitBlobSha1": "164345b2ba8a11515bd466b00c23009bf6278b3d"
+  },
+  {
+    "cardId": "w10218",
+    "word": "Aztec",
+    "meaning": "ацтекский",
+    "senseFingerprint": "811c9dd57bb8d61b6aba5d78f77c1bfeea6a3568e9df1d1c9e5f4a51988fa0ae",
+    "sha256": "b197d61356c758eb0141fea126aca7be6feeb9d121825a3d50192b97ef66aa5b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/aztec.jpg",
+    "visualReview": {
+      "cardId": "w10218",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2217",
@@ -84872,6 +86368,21 @@
     "gitBlobSha1": "b55e345d48c0ecfa5c5084352f5694617234bf84"
   },
   {
+    "cardId": "w10649",
+    "word": "Marley",
+    "meaning": "Марли",
+    "senseFingerprint": "d1f7ea8f285abe5e02f4ab497fe747685402119d4c8944d36da071a383466969",
+    "sha256": "665b65820da70086935fbff44b494d01537a3d4ea7560e031f36eb88ad9308e0",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/marley.jpg",
+    "visualReview": {
+      "cardId": "w10649",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w8739",
     "word": "advertiser",
     "meaning": "рекламодатель",
@@ -84982,6 +86493,21 @@
     },
     "remotePath": "reviewed/v1/fa8c492649764492bc3658bf944e389ade26348724f013f4fbcd7fc90787b8de.jpg",
     "gitBlobSha1": "c23574b217b744a695b47067c62660587192b054"
+  },
+  {
+    "cardId": "w9775",
+    "word": "Milo",
+    "meaning": "Майло; напиток Milo",
+    "senseFingerprint": "1c49e3df04615c6c99a71cc71a724e849cb9c4187ebfb8ee91fb0e50e4546d7c",
+    "sha256": "ea9be4ff859554853037bd82d365d72f5507c0052dbab95b54c73abdce658b64",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/milo.jpg",
+    "visualReview": {
+      "cardId": "w9775",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w9179",
@@ -85290,6 +86816,21 @@
     },
     "remotePath": "reviewed/v1/2a11f4fef714c6de67cbc80b9df4aa51242379ae23bd3b3b45d108c7ed9f7c6f.jpg",
     "gitBlobSha1": "fe0e850efba1081789cc7d4cd5d54f039d152b05"
+  },
+  {
+    "cardId": "w3817",
+    "word": "Englishman",
+    "meaning": "англичанин",
+    "senseFingerprint": "67f5dda219663b556493bdbc66fb5d52d6f372ef1796e58f603f06b58f2a0ebe",
+    "sha256": "c1a35cf5030414a123d24c35e89eb434963d06f7e32a33b555d71f40313d8f8a",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/englishman.jpg",
+    "visualReview": {
+      "cardId": "w3817",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w8340",
@@ -88400,6 +89941,21 @@
     },
     "remotePath": "reviewed/v1/2d9f068021d1fe99665c5671e862b0a8c5672ed177c4748751ea844679ca58aa.jpg",
     "gitBlobSha1": "6b38b4bd410f19398bb134156f037dbcbc1cce35"
+  },
+  {
+    "cardId": "w10761",
+    "word": "Tarzan",
+    "meaning": "Тарзан",
+    "senseFingerprint": "528631c719dbd9588807267bfbc9e46d94b681c987d68621f3a1ff3860b9b5d2",
+    "sha256": "6f7e364079e72fcfd719f91414cc83913ac14f9f0faeabe398186888a6de5766",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/tarzan.jpg",
+    "visualReview": {
+      "cardId": "w10761",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w8899",
@@ -92552,6 +94108,21 @@
     },
     "remotePath": "reviewed/v1/2ddaca422842908cbfcb61130025dfa6cb240a709442d3f1675da638f8b41d3d.jpg",
     "gitBlobSha1": "14ece8e62618612a6c0aa59945508c266aafbef6"
+  },
+  {
+    "cardId": "w10580",
+    "word": "Celsius",
+    "meaning": "Цельсий",
+    "senseFingerprint": "011df26299a7255e00a960611dce93a956a37b5db5b8eebbc9b4407bff074b14",
+    "sha256": "4c1cf1929092dbd4ff4784df0ed62a29571c3d39845a4537b9d2eef7de972d82",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/celsius.jpg",
+    "visualReview": {
+      "cardId": "w10580",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w2373",
@@ -109270,6 +110841,21 @@
     "gitBlobSha1": "9ac63c602235c995db14175cb0a386331796881c"
   },
   {
+    "cardId": "w10192",
+    "word": "Cupid",
+    "meaning": "Амур",
+    "senseFingerprint": "c3e853b52709e3e4cb92c0e94ad8a1aa54a631490494cd60c14bad7a2f86df93",
+    "sha256": "413a4b5ece5abf1982d1d0882af5b4dbb8f9e6bbebadb7fadadf247a2d134ad8",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/cupid.jpg",
+    "visualReview": {
+      "cardId": "w10192",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w3976",
     "word": "bake",
     "meaning": "испечь",
@@ -114532,6 +116118,21 @@
     },
     "remotePath": "reviewed/v1/7028a73cd4246f2771c1b81abdcaeb87ef10e78dcf303de90a5ced63e7c28c7b.jpg",
     "gitBlobSha1": "5872b090325b66cd9ca65b76032836eda75e020e"
+  },
+  {
+    "cardId": "w9955",
+    "word": "Fahrenheit",
+    "meaning": "Фаренгейт",
+    "senseFingerprint": "94567dffae31fd55dc5ce4e9cf67d0b3bd1ddaa59d928abd7ec78df27b2790b9",
+    "sha256": "94d71bbe312826fee5798fe4c330d23688ff8941a7ce7198368fcc5c40396da6",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/fahrenheit.jpg",
+    "visualReview": {
+      "cardId": "w9955",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w9896",
@@ -129540,6 +131141,21 @@
     },
     "remotePath": "reviewed/v1/ad627b8dcd9af717bc20c4e5eb666e68d279e0d06a569a3abb6d80d4b085863c.jpg",
     "gitBlobSha1": "5c787cd9136b89fc853ab1c0ff9d9eba6b9cd2d7"
+  },
+  {
+    "cardId": "w4464",
+    "word": "PayPal",
+    "meaning": "ПэйПал (платёжная система)",
+    "senseFingerprint": "ab9096eda2a3b3267f4b01015e24303fd406dff0e373665462dd8fe0bdfe190e",
+    "sha256": "8a17f9e91cdd99652a8d00ea5d13cd3b30ffa86be8fff4600ab75f25b79a26f5",
+    "pinnedUrl": "https://raw.githubusercontent.com/romanov4work/english-word-images/main/paypal.jpg",
+    "visualReview": {
+      "cardId": "w4464",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w8365",
@@ -144858,6 +146474,21 @@
     "gitBlobSha1": "f76b593a21568e5f3ff79f8fe134d5b6d13c754a"
   },
   {
+    "cardId": "w13568",
+    "word": "CDN",
+    "meaning": "сеть доставки контента (CDN)",
+    "senseFingerprint": "f62f99a4111c29fd5e6a4f33353dacc7a65e06ce5a59e7659ade1e238677f558",
+    "sha256": "8537c5b6064626fce6a6cc3431bc6a17822ba8afb03923ce171ccca5d43c869d",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/cdn.jpg",
+    "visualReview": {
+      "cardId": "w13568",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w10090",
     "word": "forego",
     "meaning": "отказываться от",
@@ -146594,6 +148225,21 @@
     "gitBlobSha1": "9c6c38708d708b483b475b21dae34079bc68ba03"
   },
   {
+    "cardId": "w12860",
+    "word": "CLI",
+    "meaning": "интерфейс командной строки",
+    "senseFingerprint": "4f0614f6fd6feb30fb4218442876208daacfe7f0a22ac2a5576aece6e88607f9",
+    "sha256": "56049760a7ad0337573d0f14069a3dd43054b0933af93c18777688315318907f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/cli.jpg",
+    "visualReview": {
+      "cardId": "w12860",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w8882",
     "word": "yourselves",
     "meaning": "сами",
@@ -147964,6 +149610,21 @@
     },
     "remotePath": "reviewed/v1/e5b9fd2ee6ff0b50406b518ee29f05ba1de8f19d33e0fab71ffae23ef1c6b1fa.jpg",
     "gitBlobSha1": "ccb702f593274a491ff06fa194bb3de49160bb14"
+  },
+  {
+    "cardId": "w12771",
+    "word": "UX",
+    "meaning": "пользовательский опыт (UX)",
+    "senseFingerprint": "284dd6246ba8c8ef08fb99df6d0dff8e608468b38947b8eec6be25c48063afbc",
+    "sha256": "87face3b12bbc5618d11280246334b40a26f68c080b5a7ac7cba582d43c7bc4b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/ux.jpg",
+    "visualReview": {
+      "cardId": "w12771",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w10221",
@@ -166412,6 +168073,21 @@
     "gitBlobSha1": "327c9797fcf53af6c98c35a6c13ffad89edb243c"
   },
   {
+    "cardId": "w13389",
+    "word": "STFU",
+    "meaning": "заткнись (сленг)",
+    "senseFingerprint": "5222758131a3426dbc857c9ec8bbdeb2d6832b7489be86882cf5ad6adf828c16",
+    "sha256": "a2f62364de79eff3cb658da530d7db21b11b91d5cdff7e824201a01d55ad43b0",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/stfu.jpg",
+    "visualReview": {
+      "cardId": "w13389",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w1272",
     "word": "cower",
     "meaning": "съежиться",
@@ -170948,6 +172624,21 @@
     "gitBlobSha1": "fec27d85e487fa5ac6751baf18e12a8a62f394b8"
   },
   {
+    "cardId": "w13557",
+    "word": "Cold War",
+    "meaning": "холодная война",
+    "senseFingerprint": "b676bbc308e84049369259d7978b00f77ec495b753f4b3b193a67d28ef18b7e1",
+    "sha256": "0b625ed1bc50c244989b54f8b1295bb1b834b3e4bb472870db1daf8048e67806",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/cold%20war.jpg",
+    "visualReview": {
+      "cardId": "w13557",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w11666",
     "word": "comfortless",
     "meaning": "неуютный",
@@ -171338,6 +173029,21 @@
     },
     "remotePath": "reviewed/v1/ee1c33cea05cfc33b471e04939f2cff2ab2751f5da3b75a2f0e6090bbc882638.jpg",
     "gitBlobSha1": "023ecea221a4838ba586370bd0338490970b43ba"
+  },
+  {
+    "cardId": "w14040",
+    "word": "CORS policy",
+    "meaning": "политика CORS",
+    "senseFingerprint": "346e465e6de0aa07ce640e874c2ffdb19dc16fbf191b3fc4686ccbfd83e2c4bf",
+    "sha256": "a2ec8f4a6d09b98155d021c7285851c434719f5fa93a81bbacc8d69b71d6e01e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/cors%20policy.jpg",
+    "visualReview": {
+      "cardId": "w14040",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w11874",
@@ -173888,6 +175594,21 @@
     "gitBlobSha1": "daf7ed945b3ad1e8798e758786610890b817d264"
   },
   {
+    "cardId": "w12010",
+    "word": "Fanum tax",
+    "meaning": "кража части еды (сленг)",
+    "senseFingerprint": "0b419ce483878f5a8d8c819ca1902f27cf8783624a9c79f4fcae7a8dedb62d79",
+    "sha256": "663c66c0fa356d5d282db564ed02d8009eaaaf81256ffb01ca145d2e1d43bb8b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/fanum%20tax.jpg",
+    "visualReview": {
+      "cardId": "w12010",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w12202",
     "word": "fasten seatbelt",
     "meaning": "пристегнуть ремень безопасности",
@@ -174924,6 +176645,21 @@
     "gitBlobSha1": "905dcefaf70c6d159ff296afc5d3eb4df28ad654"
   },
   {
+    "cardId": "w12247",
+    "word": "Gemini",
+    "meaning": "Близнецы",
+    "senseFingerprint": "b29b4447b3465778628e972b05b0abb850219cc9e241d295da9dd0dba04cae12",
+    "sha256": "4a47aade59ea0eccf5148b1cc3ad7d754a201b17250f167ba199a15277fc3e06",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/gemini.jpg",
+    "visualReview": {
+      "cardId": "w12247",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w12005",
     "word": "Gen Z",
     "meaning": "поколение z",
@@ -175342,6 +177078,21 @@
     },
     "remotePath": "reviewed/v1/f56256b14a52781a57f2799bbf842e659920dcdf04f58ce149996b8c4ddf1d08.jpg",
     "gitBlobSha1": "01411ca4b94d4e2bd3b11250af892be8381b1adc"
+  },
+  {
+    "cardId": "w14105",
+    "word": "GPU acceleration",
+    "meaning": "ускорение gpu",
+    "senseFingerprint": "00a6a1aedf0038fd7d94782ae425381d4c175161fa9d17da61db1c7d03d8a670",
+    "sha256": "27d7bda7ddae3c15ea77c49d6f4ebce1b3a7b7ba682b66231b3feae2676b835a",
+    "pinnedUrl": "https://raw.githubusercontent.com/romanov4work/english-word-images/main/gpu%20acceleration.jpg",
+    "visualReview": {
+      "cardId": "w14105",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w13933",
@@ -175932,6 +177683,291 @@
     "gitBlobSha1": "28c8b6709dd61564bf2072b30d38e600377f1aee"
   },
   {
+    "cardId": "w13627",
+    "word": "I bet you can't",
+    "meaning": "спорим, ты не сможешь",
+    "senseFingerprint": "509cdc1990b4a110cdd4ed9ce8d536a20b41ccf6d471ca0e9930ed1b94fe568c",
+    "sha256": "0c9051d7149a8c5c855ecfd65d0bf7753a85695559874a3d67181a04b0538ebb",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20bet%20you%20can%27t.jpg",
+    "visualReview": {
+      "cardId": "w13627",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13643",
+    "word": "I couldn't agree more",
+    "meaning": "я полностью согласен",
+    "senseFingerprint": "c3ba5b34595549e735ff0da74a78b8c0971934ed0233eeaceef214b8dd3b2b71",
+    "sha256": "ce4ec67047f7b4ae2f8b28a948839010a755a65224daefc8069c786092d8c705",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20couldn%27t%20agree%20more.jpg",
+    "visualReview": {
+      "cardId": "w13643",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13637",
+    "word": "I doubt it",
+    "meaning": "я сомневаюсь в этом",
+    "senseFingerprint": "6f1c016150b97cc3919d293f2379b39b71c92af48a4461fade48eae07290f65a",
+    "sha256": "a17b5b0962201ddd7b26e55591d96dbcfe688d6260faab3bbd412a2a91b3c61a",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20doubt%20it.jpg",
+    "visualReview": {
+      "cardId": "w13637",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w12026",
+    "word": "I gotchu",
+    "meaning": "я тебя прикрою",
+    "senseFingerprint": "bfe0fec90f9a2d66a1aa7be8472f7cb1053ec7adb47db2cbacb203f0c1bb6add",
+    "sha256": "e3fb619b8f8c03da6fa227b3381ec4342c2998e24beebea50a5ba69e0d945872",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20gotchu.jpg",
+    "visualReview": {
+      "cardId": "w12026",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13631",
+    "word": "I guess so",
+    "meaning": "полагаю, что так",
+    "senseFingerprint": "a7bb17c3f0508ecb2c3906404c1a13afe2894ee7008d2462ed7b333fa99e42fe",
+    "sha256": "abf789a5e3e809d7a3fe264f91a0259eca48c57466491ec75450fea42be7a39e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20guess%20so.jpg",
+    "visualReview": {
+      "cardId": "w13631",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13220",
+    "word": "I have loads of",
+    "meaning": "у меня куча (чего-то)",
+    "senseFingerprint": "ec8e1c457190a2b6fffc88ea4697894b6c59ccca3bfa74ce87015a7acc4cc22c",
+    "sha256": "f48cd217d9116d63a875a4aa010c84a2ad67ee53540c2bf87b2d8cd86768369e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20have%20loads%20of.jpg",
+    "visualReview": {
+      "cardId": "w13220",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13146",
+    "word": "I have no idea",
+    "meaning": "я понятия не имею",
+    "senseFingerprint": "55e1fa67839efffce75d4988f320b532ff6487bc3e60c24ead523aab689ea990",
+    "sha256": "5be558e0c9ae67a7bb810ad341fd4bc26e11ed7fccefe04266f0fbfc08e867e3",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20have%20no%20idea.jpg",
+    "visualReview": {
+      "cardId": "w13146",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w12013",
+    "word": "I mean nothing",
+    "meaning": "я ничего не значу",
+    "senseFingerprint": "10310ea8110fc2cff679ce1f250b90aede86dca12d490c9ea8a13ddadc4b396e",
+    "sha256": "643d6ddd3594d98e38bcc693761649b3f40ac9fc3044a5670a659ffca8fcfbc7",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20mean%20nothing.jpg",
+    "visualReview": {
+      "cardId": "w12013",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13231",
+    "word": "I see potential in this",
+    "meaning": "я вижу в этом потенциал",
+    "senseFingerprint": "636a6274776675c0085c12d7578d823782ad3e62f541338976fea3a4d399ee75",
+    "sha256": "ce6858263ec9a1ebd78989993c260b23cec9e5d402587ca8b73fac6ca9d177ce",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20see%20potential%20in%20this.jpg",
+    "visualReview": {
+      "cardId": "w13231",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13523",
+    "word": "I used to be",
+    "meaning": "я раньше был",
+    "senseFingerprint": "23c92bef8f7a376d5176bb35e4611dd6df1909eb1b4da38bbda39139f4d28219",
+    "sha256": "e5033b7b280870feb4c9994738ce7fe582aad6a73bce6c38c59ab17e1300a969",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%20used%20to%20be.jpg",
+    "visualReview": {
+      "cardId": "w13523",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w12028",
+    "word": "I'll take it",
+    "meaning": "я это возьму",
+    "senseFingerprint": "659be21545255fb5511cc6f898dbed26ebd685a8efb13d7e40a1b2d2c51fd884",
+    "sha256": "0ec91df70ae07575d2d2277bf2a310f22cbecfea5ccdcf23e097430a79a93798",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27ll%20take%20it.jpg",
+    "visualReview": {
+      "cardId": "w12028",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w12022",
+    "word": "I'm about one second away from",
+    "meaning": "я в одном шаге от того, чтобы...",
+    "senseFingerprint": "3e7a594861a9931f7539b47ea4f7ee9de7102fd6365fa3dd5d76f98e500a0aa9",
+    "sha256": "da70671e7aa2f7369c31dda351a4e080275b022999f6fd039b1772b1c516d55f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20about%20one%20second%20away%20from.jpg",
+    "visualReview": {
+      "cardId": "w12022",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13386",
+    "word": "I'm cool with that",
+    "meaning": "я согласен с этим",
+    "senseFingerprint": "0e3bb553a15bdffd0dffcae8c67862f91211a80b8f4e5acef68ff9fa0ae7af72",
+    "sha256": "3921ef0320b736a23f4184ef7b639cb047bd638cbcb86deefeae9ff23ff70f23",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20cool%20with%20that.jpg",
+    "visualReview": {
+      "cardId": "w13386",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13634",
+    "word": "I'm down",
+    "meaning": "я в деле, я согласен",
+    "senseFingerprint": "7ebe28a2537bbef49aca4c50b1ee9993aac053dcc44c5aa0a48adf08ff6c2545",
+    "sha256": "bce55905ff601a9e052462410e044b9d45aab2c80543fc1f5419603f745e661f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20down.jpg",
+    "visualReview": {
+      "cardId": "w13634",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13373",
+    "word": "I'm going out with her",
+    "meaning": "я встречаюсь с ней",
+    "senseFingerprint": "5e2ae3c17b6d9d0783d2b40e5ab85e7dfe6e1e12902a9640be7cba92d0df9507",
+    "sha256": "e8b40344450d80522f94021efa40a4f9f6243fb18119939ddb30c0c6b3db095a",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20going%20out%20with%20her.jpg",
+    "visualReview": {
+      "cardId": "w13373",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13635",
+    "word": "I'm in",
+    "meaning": "я участвую, я за",
+    "senseFingerprint": "7595e56a0531b5d7321cd9f71302aca1f9ab03710c3fbd57bca55708d3adcb50",
+    "sha256": "84b315c18b759c4acad043196ee9e7c68e9f94a751954f32796b763fef559c70",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20in.jpg",
+    "visualReview": {
+      "cardId": "w13635",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13636",
+    "word": "I'm out",
+    "meaning": "я пас, я ухожу",
+    "senseFingerprint": "b5c61ceb52b6f9fc33b7288810bd92aab88ab730a0e97bf66d341c031a12ae23",
+    "sha256": "22a975d854672f5cf444daf7620fc095a410d62be262cdc0f9d018a2a3d0cd6f",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20out.jpg",
+    "visualReview": {
+      "cardId": "w13636",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w12023",
+    "word": "I'm posting a video",
+    "meaning": "я выкладываю видео",
+    "senseFingerprint": "990056c0ca30fd762158272749541cf52539512fbe81f29f2e9f695feb21a7cd",
+    "sha256": "85186932d4abfb533ba17c8cb3d35d6a96534a95cc6b7fb3f2a068896d5608ec",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20posting%20a%20video.jpg",
+    "visualReview": {
+      "cardId": "w12023",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "w13210",
+    "word": "I'm working out",
+    "meaning": "я тренируюсь (фраза)",
+    "senseFingerprint": "42bcd65c4b085038d4628184de5fcf501d8fab0503b1f246429284f3d1e1c36a",
+    "sha256": "48454b770fbcca99bd97a531c31bf392a611bc2c07092434e51e25dabe5dc5f4",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/i%27m%20working%20out.jpg",
+    "visualReview": {
+      "cardId": "w13210",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w12076",
     "word": "ice rink",
     "meaning": "каток",
@@ -175958,6 +177994,21 @@
     },
     "remotePath": "reviewed/v1/4cf29fe439bbc5458abf3866df90a7cac7624c46f36653a77682fc74ac03b06b.jpg",
     "gitBlobSha1": "778a526e906c9fcafa8e90267cb5c09a00b4b276"
+  },
+  {
+    "cardId": "w13859",
+    "word": "Immanuel Kant",
+    "meaning": "Иммануил Кант",
+    "senseFingerprint": "3be84a04343bc37dcdec269943c67001bc3e43edafc00ef9f9cbde873f01bd47",
+    "sha256": "8c45a9be1a879363d28a712b6c214fed7694be13dbdd2ab5dcb239f9be86d663",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/immanuel%20kant.jpg",
+    "visualReview": {
+      "cardId": "w13859",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w12691",
@@ -178726,6 +180777,21 @@
     },
     "remotePath": "reviewed/v1/1b6092056d668b98b08d850c3c5c33ee716871debef96557c4c42b5dd9ea8c30.jpg",
     "gitBlobSha1": "199752f8c1978c26c485eef85628b79984e38901"
+  },
+  {
+    "cardId": "w13112",
+    "word": "MVVM",
+    "meaning": "модель — представление — модель представления (MVVM)",
+    "senseFingerprint": "46f73af773ff3b412bf8bb82662c53a9a7a7f5ff455552a74505a91fa419a5e6",
+    "sha256": "55945bbdb77703abbb53e575697f367c7766c00c2004dc0140c95630a369ffed",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/mvvm.jpg",
+    "visualReview": {
+      "cardId": "w13112",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w13440",
@@ -182698,6 +184764,21 @@
     "gitBlobSha1": "b38c79c9d6041e4b67665f58e33b8e906e01f344"
   },
   {
+    "cardId": "w12232",
+    "word": "speak English",
+    "meaning": "говорить по-английски",
+    "senseFingerprint": "8379b1d1cd7fe6a46fa0897cc6d2f8b0cf1bd10f1360f012cc52a5180545733f",
+    "sha256": "e306217e1b3c9cdfc35cb842af60dee44cf6976e464bca9b2aeb78e0aa36f725",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/speak%20english.jpg",
+    "visualReview": {
+      "cardId": "w12232",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "w14162",
     "word": "speak of the devil",
     "meaning": "легок на помине",
@@ -182724,6 +184805,21 @@
     },
     "remotePath": "reviewed/v1/94dde15dcd68e72e2d25bfa1b710c9209e038a202214f607f14d7030e4191de3.jpg",
     "gitBlobSha1": "fd14b5b929705079f40835bac5536c92f4e6c415"
+  },
+  {
+    "cardId": "w12233",
+    "word": "speak Russian",
+    "meaning": "говорить по-русски",
+    "senseFingerprint": "c101a5d671cfa53da611576f8bf62f5cf327fb993daa71b2e5f4053cdd922e28",
+    "sha256": "e581d6745812c82c4bf0b73e978897c61b93a51c3f903cb841aec2134e4f3723",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/speak%20russian.jpg",
+    "visualReview": {
+      "cardId": "w12233",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "w11943",
@@ -209966,6 +212062,66 @@
     "gitBlobSha1": "4b2e325f731c848334c19a60117597d6478ea4d2"
   },
   {
+    "cardId": "t_geocapitals_w44",
+    "word": "China",
+    "meaning": "Китай",
+    "senseFingerprint": "4f94aabe020d07ae0701522012539799090781b88cfed51a77cf6001c2f44a8b",
+    "sha256": "1a607be033d8cbeaf35b80ac8cb119e5a59ee3879076e0917480f88c2ee94eff",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/china.jpg",
+    "visualReview": {
+      "cardId": "t_geocapitals_w44",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "t_geocapitals_w48",
+    "word": "Italy",
+    "meaning": "Италия",
+    "senseFingerprint": "4ec2849e10866adf152e020e9a7f60c8966df13a72f4f9002f686cfdf6508534",
+    "sha256": "7204ac422f76f9b8b634fc4c47ef2362c6a553820d35db5e9b90f90c74a5b73e",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/italy.jpg",
+    "visualReview": {
+      "cardId": "t_geocapitals_w48",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "t_geocapitals_w61",
+    "word": "Turkey",
+    "meaning": "Турция",
+    "senseFingerprint": "003de719e9b11745c3b760b085a488d949ab2c9dd917a20e4688d3028f5a5be7",
+    "sha256": "038aee27cb8f802b6445b266b963cd3d62a5e7b12574151a4363cd3c445a4a64",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/turkey.jpg",
+    "visualReview": {
+      "cardId": "t_geocapitals_w61",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "t_geocapitals_w72",
+    "word": "Greece",
+    "meaning": "Греция",
+    "senseFingerprint": "022f635895e23ce7c14c28ca0dd4cde40dfdfa7ab39241fc5c3c5a86266b7d3c",
+    "sha256": "04f1aebe77dc1a51dacc85d782a25f469ddf5dfa542ee70f5d44138bf48815ce",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/greece.jpg",
+    "visualReview": {
+      "cardId": "t_geocapitals_w72",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "t_geocapitals_w78",
     "word": "Los Angeles",
     "meaning": "Лос-Анджелес",
@@ -226690,6 +228846,21 @@
     "gitBlobSha1": "a1d0adf8029f132c34c4c2874656098b43b98381"
   },
   {
+    "cardId": "t_physics_w97",
+    "word": "Earth",
+    "meaning": "земля",
+    "senseFingerprint": "014bf6996f4344c9811a06a41b65b591f2bfaeb079ec9453203a86fe8cef55ec",
+    "sha256": "1dd3502a54ccf7d2dc25d447d2ce9787ae759b7b79c933353f59619b7b9b4656",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/earth.jpg",
+    "visualReview": {
+      "cardId": "t_physics_w97",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
     "cardId": "t_physics_w98",
     "word": "eclipse",
     "meaning": "затмение",
@@ -226828,6 +228999,51 @@
     },
     "remotePath": "reviewed/v1/c80d9a8976703c238647200859149b39fbc2226dc9fba3a19527335334bb7bc2.jpg",
     "gitBlobSha1": "6675fe7f2f987acdbced75aaa2b481ea33da842a"
+  },
+  {
+    "cardId": "t_physics_w111",
+    "word": "Mercury",
+    "meaning": "меркурий",
+    "senseFingerprint": "07b410770c1212729996119ae6485a2cda7460ad99eb1ac0a87e751a0d4240ce",
+    "sha256": "d5da15435ae4036fcc176382974a5a54b800eeff185c49c0afe8ef32b0a11b14",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/mercury.jpg",
+    "visualReview": {
+      "cardId": "t_physics_w111",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "t_physics_w115",
+    "word": "Moon",
+    "meaning": "луна",
+    "senseFingerprint": "47fbc57257f9968a5993b24f2193fb910520c8b46048e069a317a9c6a781211f",
+    "sha256": "7a4c381ffc3146efa88d39848a2d0d6aaf1f25418408702daf57df5366ff602b",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/moon.jpg",
+    "visualReview": {
+      "cardId": "t_physics_w115",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
+  },
+  {
+    "cardId": "t_physics_w117",
+    "word": "Sun",
+    "meaning": "солнце",
+    "senseFingerprint": "f6b780e5e5a31127d5fe23ecb9ed165d29f7c8899f68d54e66f4df82ca4403f2",
+    "sha256": "09cb17a656c32dd51cd9778040b6b1e6bde2c851fe1c8990e782d2ec288fd514",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/sun.jpg",
+    "visualReview": {
+      "cardId": "t_physics_w117",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "t_physics_w119",
@@ -239820,6 +242036,21 @@
     },
     "remotePath": "reviewed/v1/5d1e28ffb927e9753c7bcd4bc2e5df88b262a3830be2ac767f2a559685394e41.jpg",
     "gitBlobSha1": "5e478232193f757f24925590235370b4ac0578b6"
+  },
+  {
+    "cardId": "t_time_w23",
+    "word": "Friday",
+    "meaning": "пятница",
+    "senseFingerprint": "1ea5f6b8539d3adb92d9e33273f8b6346e8a29adcf7f2caecc5777e3467af169",
+    "sha256": "72f4bf0a574a49a557bc14edbcf99b71f8364ee97480b532bc6ccd5ff497615d",
+    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@main/friday.jpg",
+    "visualReview": {
+      "cardId": "t_time_w23",
+      "rank": 0,
+      "decision": "pin-retained-original",
+      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+    },
+    "remotePath": null
   },
   {
     "cardId": "t_time_w24",
