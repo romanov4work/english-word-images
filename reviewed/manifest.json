@@ -187441,7 +187441,7 @@
     "word": "know-it-all",
     "meaning": "всезнайка",
     "senseFingerprint": "499974b903f8a051e56350fe442c8237ac573ce745435ad19e9a223e2c701f6d",
-    "sha256": "63f41c55a8174457cd3abb5975428170c579313ac3685bd7d46c6901be874a1d",
+    "sha256": "9f724d42f9150897bafb855d8856ad2398c82c4bd9b172c11070c4ba42b26aac",
     "searchQuery": "know-it-all student interrupting classmates to answer every question",
     "searchUrl": "https://yandex.com/images/search?text=know-it-all%20student%20interrupting%20classmates%20to%20answer%20every%20question",
     "sourcePageUrl": "https://imgflip.com/memetemplate/134846343/raised-hand",
@@ -187451,7 +187451,7 @@
       "cardId": "w11963",
       "word": "know-it-all",
       "senseFingerprint": "499974b903f8a051e56350fe442c8237ac573ce745435ad19e9a223e2c701f6d",
-      "sha256": "63f41c55a8174457cd3abb5975428170c579313ac3685bd7d46c6901be874a1d",
+      "sha256": "9f724d42f9150897bafb855d8856ad2398c82c4bd9b172c11070c4ba42b26aac",
       "decision": "good",
       "retainedCurrent": false,
       "visuallyUsableProposal": true,
@@ -187461,8 +187461,8 @@
       "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
       "sourceApproval": "pending"
     },
-    "remotePath": "reviewed/v1/63f41c55a8174457cd3abb5975428170c579313ac3685bd7d46c6901be874a1d.jpg",
-    "gitBlobSha1": "9d7b9ef6b9b9dd2c46647757bf4ca8e8a63fb768"
+    "remotePath": "reviewed/v1/9f724d42f9150897bafb855d8856ad2398c82c4bd9b172c11070c4ba42b26aac.jpg",
+    "gitBlobSha1": "ed19dc7e01506914abd2d3cc82e3eb796b74b6bb"
   },
   {
     "cardId": "w11969",
