@@ -202731,15 +202731,28 @@
     "word": "unintelligible",
     "meaning": "неразборчивый",
     "senseFingerprint": "8de941ed5f7eb9fa11818ad3a3855a1bbbbee2dd35c1cbb64b8593aa39dd0152",
-    "sha256": "90f35f5a314e9696ee17ed7293ab7f2c933f6f5336e6015d83f09c14c6cfcfcd",
-    "pinnedUrl": "https://cdn.jsdelivr.net/gh/romanov4work/english-word-images@b8a75514bcabb153adbc1f18f47f25147f0b26b2/reviewed/v1/90f35f5a314e9696ee17ed7293ab7f2c933f6f5336e6015d83f09c14c6cfcfcd.jpg",
+    "sha256": "9dd4a91e325a25a9ce82ec751c1426f905fa32193d2388131232c89512b25613",
+    "searchQuery": "Close-up photograph of hurried, illegible handwritten notes on lined paper; visual example of writing that is impossible to understand, no worksheet or overlay text.",
+    "searchUrl": "https://www.google.com/search?tbm=isch&q=illegible+handwriting+unreadable+handwritten+note+close+up+photograph",
+    "sourcePageUrl": "https://www.pinterest.com/pin/293367363201217361/",
+    "downloadedUrl": "https://i.pinimg.com/originals/f4/a4/7f/f4a47f2ec2c3f2a1c541c234ae540274.jpg",
     "visualReview": {
+      "rank": 14778,
       "cardId": "t_art_w113",
-      "rank": 0,
-      "decision": "pin-retained-original",
-      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+      "word": "unintelligible",
+      "senseFingerprint": "8de941ed5f7eb9fa11818ad3a3855a1bbbbee2dd35c1cbb64b8593aa39dd0152",
+      "sha256": "9dd4a91e325a25a9ce82ec751c1426f905fa32193d2388131232c89512b25613",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "c199c4f0c95efbf7c06bf6e503607e09943b5213704f31b22801705356e25d71",
+      "note": "Manually inspected full scene and actual cover fit a taught meaning.",
+      "reviewMethod": "Independent assistant inspection of saved full-image and actual-cover sheets; API is optional supplementary evidence.",
+      "sourceApproval": "pending"
     },
-    "remotePath": null
+    "remotePath": "reviewed/v1/9dd4a91e325a25a9ce82ec751c1426f905fa32193d2388131232c89512b25613.jpg",
+    "gitBlobSha1": "b7de2b9ce80fb876462fed9bfff1752e0064e14e"
   },
   {
     "cardId": "t_art_w116",
