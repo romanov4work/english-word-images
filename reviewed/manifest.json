@@ -180626,15 +180626,32 @@
     "word": "C flat",
     "meaning": "до-бемоль",
     "senseFingerprint": "9fd249e5f570ddb2ba789abde81f61327d2bf58bf41a41bc18a98e7378969d0b",
-    "sha256": "2a7a150625e5c663bd7725a5e5443546437ec9a69b05c265bb5c6426bfd850b4",
-    "pinnedUrl": "https://raw.githubusercontent.com/romanov4work/english-word-images/main/c%20flat.jpg",
+    "sha256": "8c7a6c8d43f8f502e1dfb6a3633fbf54e7f5563b66016f464c126c963ec4fb2f",
+    "searchQuery": "C-flat (C♭) enharmonic equivalent B natural piano keyboard diagram",
+    "searchUrl": "https://pressbooks.macalester.digital/multimodalmusicianship/chapter/pitch-notation/",
+    "sourcePageUrl": "https://pressbooks.macalester.digital/multimodalmusicianship/chapter/pitch-notation/",
+    "downloadedUrl": "https://pressbooks.macalester.digital/multimodalmusicianship/files/2023/04/image12.png",
     "visualReview": {
+      "rank": 13042,
       "cardId": "w12954",
-      "rank": 0,
-      "decision": "pin-retained-original",
-      "note": "Case-mismatch retained original pinned to its verified existing remote URL; bytes SHA-verified."
+      "word": "C flat",
+      "senseFingerprint": "9fd249e5f570ddb2ba789abde81f61327d2bf58bf41a41bc18a98e7378969d0b",
+      "sha256": "8c7a6c8d43f8f502e1dfb6a3633fbf54e7f5563b66016f464c126c963ec4fb2f",
+      "decision": "good",
+      "retainedCurrent": false,
+      "visuallyUsableProposal": true,
+      "cropAcceptance": "visually-clear",
+      "cropSha256": "ed024133b1b377945aa74dc2b4cab4de31f6f625aa7e249bf71515706ff7c5b7",
+      "note": "Independent visual check of the saved source and the exact app-sized 130x130 cover: piano keyboard labels B and C♭ on the same white key; the crop makes the enharmonic C-flat meaning readable. Replaced both the black original and two unrelated keyboard proposals.",
+      "reviewMethod": "Manual inspection of the complete saved image, focused source crop and exact 130x130 ImageOps.fit app cover.",
+      "sourceApproval": "pending",
+      "searchQuery": "C-flat (C♭) enharmonic equivalent B natural piano keyboard diagram",
+      "sourcePageUrl": "https://pressbooks.macalester.digital/multimodalmusicianship/chapter/pitch-notation/",
+      "selectedSampleFile": "w12954-webimg-pressbooks-detail.jpg",
+      "selectedSha256": "8c7a6c8d43f8f502e1dfb6a3633fbf54e7f5563b66016f464c126c963ec4fb2f"
     },
-    "remotePath": null
+    "remotePath": "reviewed/v1/8c7a6c8d43f8f502e1dfb6a3633fbf54e7f5563b66016f464c126c963ec4fb2f.jpg",
+    "gitBlobSha1": "ff5a1547e8329dfe1978bf824b3bf6a60efa2c6b"
   },
   {
     "cardId": "w11725",
